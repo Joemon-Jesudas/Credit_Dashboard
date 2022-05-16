@@ -1,0 +1,1001 @@
+Checking_Amt,Duration,Credit_History,Purpose,Credit_Amt,Savings_Amt,Employement,Installment_Rate,Personal_status, debtors/guarantors,Residence,Property,Age,Install_plans,Housing,No.of_credits,Job_type,No.of_people,Telephone,Foreigner,Credit_Risk
+little,6,critical account,radio/television,1169,NA,Master,4,male,none,4,real estate,67,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,48,existing credits paid back duly,radio/television,5951,little,Professional,2,female,none,2,real estate,22,none,Own,1,skilled employee,1,None,Yes,2
+NA,12,critical account,education,2096,little,Expert,2,male,none,3,real estate,49,none,Own,1,unskilled,2,None,Yes,1
+little,42,existing credits paid back duly,furniture/equipment,7882,little,Expert,2,male,guarantor,4,building society savings agreement/ life insurance,45,none,For Free,1,skilled employee,2,None,Yes,1
+little,24,delay in paying off in the past,car (new),4870,little,Professional,3,male,none,4, unknown / no property,53,none,For Free,2,skilled employee,2,None,Yes,2
+NA,36,existing credits paid back duly,education,9055,NA,Professional,2,male,none,4, unknown / no property,35,none,For Free,1,unskilled,2,Yes,Yes,1
+NA,24,existing credits paid back duly,furniture/equipment,2835,Quite Rich,Master,3,male,none,4,building society savings agreement/ life insurance,53,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,36,existing credits paid back duly,car (used),6948,little,Professional,2,male,none,2,car or other,35,none,Rent,1,qualified employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,radio/television,3059,Rich,Expert,2,male,none,4,real estate,61,none,Own,1,unskilled,1,None,Yes,1
+Moderate,30,critical account,car (new),5234,little,Unemployed,4,male,none,2,car or other,28,none,Own,2,qualified employee,1,None,Yes,2
+Moderate,12,existing credits paid back duly,car (new),1295,little,amateur,3,female,none,1,car or other,25,none,Rent,1,skilled employee,1,None,Yes,2
+little,48,existing credits paid back duly,business,4308,little,amateur,3,female,none,4,building society savings agreement/ life insurance,24,none,Rent,1,skilled employee,1,None,Yes,2
+Moderate,12,existing credits paid back duly,radio/television,1567,little,Professional,1,female,none,1,car or other,22,none,Own,1,skilled employee,1,Yes,Yes,1
+little,24,critical account,car (new),1199,little,Master,4,male,none,4,car or other,60,none,Own,2,unskilled,1,None,Yes,2
+little,15,existing credits paid back duly,car (new),1403,little,Professional,2,female,none,4,car or other,28,none,Rent,1,skilled employee,1,None,Yes,1
+little,24,existing credits paid back duly,radio/television,1282,Moderate,Professional,4,female,none,2,car or other,32,none,Own,1,unskilled,1,None,Yes,2
+NA,24,critical account,radio/television,2424,NA,Master,4,male,none,4,building society savings agreement/ life insurance,53,none,Own,2,skilled employee,1,None,Yes,1
+little,30,no credits taken,business,8072,NA,amateur,2,male,none,3,car or other,25,bank,Own,3,skilled employee,1,None,Yes,1
+Moderate,24,existing credits paid back duly,car (used),12579,little,Master,4,female,none,2, unknown / no property,44,none,For Free,1,qualified employee,1,Yes,Yes,2
+NA,24,existing credits paid back duly,radio/television,3430,Quite Rich,Master,3,male,none,2,car or other,31,none,Own,1,skilled employee,2,Yes,Yes,1
+NA,9,critical account,car (new),2134,little,Professional,4,male,none,4,car or other,48,none,Own,3,skilled employee,1,Yes,Yes,1
+little,6,existing credits paid back duly,radio/television,2647,Quite Rich,Professional,2,male,none,3,real estate,44,none,Rent,1,skilled employee,2,None,Yes,1
+little,10,critical account,car (new),2241,little,amateur,1,male,none,3,real estate,48,none,Rent,2,unskilled,2,None,No,1
+Moderate,12,critical account,car (used),1804,Moderate,amateur,3,male,none,4,building society savings agreement/ life insurance,44,none,Own,1,skilled employee,1,None,Yes,1
+NA,10,critical account,furniture/equipment,2069,NA,Professional,2,male,none,1,car or other,26,none,Own,2,skilled employee,1,None,No,1
+little,6,existing credits paid back duly,furniture/equipment,1374,little,Professional,1,male,none,2,real estate,36,bank,Own,1,unskilled,1,Yes,Yes,1
+NA,6,no credits taken,radio/television,426,little,Master,4,male,none,4,car or other,39,none,Own,1,unskilled,1,None,Yes,1
+Rich,12,all credits paid back duly,radio/television,409,Rich,Professional,3,female,none,3,real estate,42,none,Rent,2,skilled employee,1,None,Yes,1
+Moderate,7,existing credits paid back duly,radio/television,2415,little,Professional,3,male,guarantor,2,real estate,34,none,Own,1,skilled employee,1,None,Yes,1
+little,60,delay in paying off in the past,business,6836,little,Master,3,male,none,4, unknown / no property,63,none,Own,2,skilled employee,1,Yes,Yes,2
+Moderate,18,existing credits paid back duly,business,1913,Rich,amateur,3,male,none,3,real estate,36,bank,Own,1,skilled employee,1,Yes,Yes,1
+little,24,existing credits paid back duly,furniture/equipment,4020,little,Professional,2,male,none,2,car or other,27,stores,Own,1,skilled employee,1,None,Yes,1
+Moderate,18,existing credits paid back duly,car (new),5866,Moderate,Professional,2,male,none,2,car or other,30,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,12,critical account,business,1264,NA,Master,4,male,none,4, unknown / no property,57,none,Rent,1,unskilled,1,None,Yes,1
+Rich,12,existing credits paid back duly,furniture/equipment,1474,little,amateur,4,female,none,1,building society savings agreement/ life insurance,33,bank,Own,1,qualified employee,1,Yes,Yes,1
+Moderate,45,critical account,radio/television,4746,little,amateur,4,male,none,2,building society savings agreement/ life insurance,25,none,Own,2,unskilled,1,None,Yes,2
+NA,48,critical account,education,6110,little,Professional,1,male,none,3, unknown / no property,31,bank,For Free,1,skilled employee,1,Yes,Yes,1
+Rich,18,existing credits paid back duly,radio/television,2100,little,Professional,4,male, co-applicant,2,real estate,37,stores,Own,1,skilled employee,1,None,Yes,2
+Rich,10,existing credits paid back duly,domestic appliances,1225,little,Professional,2,male,none,2,car or other,37,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,9,existing credits paid back duly,radio/television,458,little,Professional,4,male,none,3,real estate,24,none,Own,1,skilled employee,1,None,Yes,1
+NA,30,existing credits paid back duly,radio/television,2333,Quite Rich,Master,4,male,none,2,car or other,30,bank,Own,1,qualified employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,1158,Quite Rich,Professional,3,male,none,1,car or other,26,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,18,delay in paying off in the past,repairs,6204,little,Professional,2,male,none,4,real estate,44,none,Own,1,unskilled,2,Yes,Yes,1
+little,30,critical account,car (used),6187,Moderate,Expert,1,male,none,4,car or other,24,none,Rent,2,skilled employee,1,None,Yes,1
+little,48,critical account,car (used),6143,little,Master,4,female,none,4, unknown / no property,58,stores,For Free,2,unskilled,1,None,Yes,2
+NA,11,critical account,car (new),1393,little,amateur,4,female,none,4,car or other,35,none,Own,2,qualified employee,1,None,Yes,1
+NA,36,existing credits paid back duly,radio/television,2299,Quite Rich,Master,4,male,none,4,car or other,39,none,Own,1,skilled employee,1,None,Yes,1
+little,6,existing credits paid back duly,car (used),1352,Quite Rich,Unemployed,1,female,none,2,building society savings agreement/ life insurance,23,none,Rent,1,unemployed,1,Yes,Yes,1
+NA,11,critical account,car (new),7228,little,Professional,1,male,none,4,building society savings agreement/ life insurance,39,none,Own,2,unskilled,1,None,Yes,1
+NA,12,existing credits paid back duly,radio/television,2073,Moderate,Professional,4,female, co-applicant,2,real estate,28,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,24,delay in paying off in the past,furniture/equipment,2333,NA,amateur,4,male,none,2,building society savings agreement/ life insurance,29,bank,Own,1,unskilled,1,None,Yes,1
+Moderate,27,delay in paying off in the past,car (used),5965,little,Master,1,male,none,2,car or other,30,none,Own,2,qualified employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,radio/television,1262,little,Professional,3,male,none,2,car or other,25,none,Own,1,skilled employee,1,None,Yes,1
+NA,18,existing credits paid back duly,car (used),3378,NA,Professional,2,male,none,1,building society savings agreement/ life insurance,31,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,36,delay in paying off in the past,car (new),2225,little,Master,4,male,none,4, unknown / no property,57,bank,For Free,2,skilled employee,1,Yes,Yes,2
+NA,6,all credits paid back duly,car (new),783,NA,Professional,1,male,guarantor,2,real estate,26,stores,Own,1,unskilled,2,None,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,6468,NA,Unemployed,2,male,none,1, unknown / no property,52,none,Own,1,qualified employee,1,Yes,Yes,2
+NA,36,critical account,radio/television,9566,little,Professional,2,female,none,2,car or other,31,stores,Own,2,skilled employee,1,None,Yes,1
+Rich,18,existing credits paid back duly,car (new),1961,little,Master,3,female,none,2,car or other,23,none,Own,1,qualified employee,1,None,Yes,1
+little,36,critical account,furniture/equipment,6229,little,amateur,4,female, co-applicant,4, unknown / no property,23,none,Rent,2,unskilled,1,Yes,Yes,2
+Moderate,9,existing credits paid back duly,business,1391,little,Professional,2,male,none,1,real estate,27,bank,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,15,critical account,radio/television,1537,NA,Master,4,male,guarantor,4,real estate,50,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,36,no credits taken,business,1953,little,Master,4,male,none,4, unknown / no property,61,none,For Free,1,qualified employee,1,Yes,Yes,2
+Moderate,48,no credits taken,business,14421,little,Professional,2,male,none,2,car or other,25,none,Own,1,skilled employee,1,Yes,Yes,2
+NA,24,existing credits paid back duly,radio/television,3181,little,amateur,4,female,none,4,building society savings agreement/ life insurance,26,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,27,existing credits paid back duly,repairs,5190,NA,Master,4,male,none,4,building society savings agreement/ life insurance,48,none,Own,4,skilled employee,2,Yes,Yes,1
+NA,12,existing credits paid back duly,radio/television,2171,little,amateur,2,female,none,2,car or other,29,bank,Own,1,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,car (new),1007,Rich,Professional,4,male,none,1,real estate,22,none,Own,1,skilled employee,1,None,Yes,1
+NA,36,existing credits paid back duly,education,1819,little,Professional,4,male,none,4, unknown / no property,37,stores,For Free,1,skilled employee,1,Yes,Yes,2
+NA,36,existing credits paid back duly,radio/television,2394,NA,Professional,4,female,none,4,car or other,25,none,Own,1,skilled employee,1,None,Yes,1
+NA,36,existing credits paid back duly,car (used),8133,little,Professional,1,female,none,2,building society savings agreement/ life insurance,30,bank,Own,1,skilled employee,1,None,Yes,1
+NA,7,critical account,radio/television,730,NA,Master,4,male,none,2,building society savings agreement/ life insurance,46,none,Rent,2,unskilled,1,Yes,Yes,1
+little,8,critical account,Others,1164,little,Master,3,male,none,4, unknown / no property,51,bank,For Free,2,qualified employee,2,Yes,Yes,1
+Moderate,42,critical account,business,5954,little,Expert,2,female,none,1,real estate,41,bank,Own,2,unskilled,1,None,Yes,1
+little,36,existing credits paid back duly,education,1977,NA,Master,4,male,none,4, unknown / no property,40,none,Own,1,qualified employee,1,Yes,Yes,2
+little,12,critical account,car (used),1526,little,Master,4,male,none,4, unknown / no property,66,none,For Free,2,qualified employee,1,None,Yes,1
+little,42,existing credits paid back duly,radio/television,3965,little,amateur,4,male,none,3,car or other,34,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,11,delay in paying off in the past,radio/television,4771,little,Expert,2,male,none,4,building society savings agreement/ life insurance,51,none,Own,1,skilled employee,1,None,Yes,1
+NA,54,no credits taken,car (used),9436,NA,Professional,2,male,none,2,building society savings agreement/ life insurance,39,none,Own,1,unskilled,2,None,Yes,1
+Moderate,30,existing credits paid back duly,furniture/equipment,3832,little,amateur,2,male,none,1,building society savings agreement/ life insurance,22,none,Own,1,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,radio/television,5943,NA,amateur,1,female,none,1,car or other,44,none,Own,2,skilled employee,1,Yes,Yes,2
+NA,15,existing credits paid back duly,radio/television,1213,Quite Rich,Master,4,male,none,3,building society savings agreement/ life insurance,47,stores,Own,1,skilled employee,1,Yes,Yes,1
+NA,18,existing credits paid back duly,business,1568,Moderate,Professional,3,female,none,4,building society savings agreement/ life insurance,24,none,Rent,1,unskilled,1,None,Yes,1
+little,24,existing credits paid back duly,Others,1755,little,Master,4,female,guarantor,4,real estate,58,none,Own,1,unskilled,1,Yes,Yes,1
+little,10,existing credits paid back duly,radio/television,2315,little,Master,3,male,none,4,real estate,52,none,Own,1,unskilled,1,None,Yes,1
+NA,12,critical account,business,1412,little,Professional,4,female,guarantor,2,real estate,29,none,Own,2,qualified employee,1,Yes,Yes,1
+Moderate,18,critical account,furniture/equipment,1295,little,amateur,4,female,none,1,building society savings agreement/ life insurance,27,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,36,existing credits paid back duly,education,12612,Moderate,Professional,1,male,none,4, unknown / no property,47,none,For Free,1,skilled employee,2,Yes,Yes,2
+little,18,existing credits paid back duly,car (new),2249,Moderate,Expert,4,male,none,3,car or other,30,none,Own,1,qualified employee,2,Yes,Yes,1
+little,12,no credits taken,repairs,1108,little,Expert,4,male,none,3,real estate,28,none,Own,2,skilled employee,1,None,Yes,2
+NA,12,critical account,radio/television,618,little,Master,4,male,none,4,real estate,56,none,Own,1,skilled employee,1,None,Yes,1
+little,12,critical account,car (used),1409,little,Master,4,male,none,3,real estate,54,none,Own,1,skilled employee,1,None,Yes,1
+NA,12,critical account,radio/television,797,NA,Master,4,female,none,3,building society savings agreement/ life insurance,33,bank,Own,1,unskilled,2,None,Yes,2
+Rich,24,critical account,furniture/equipment,3617,NA,Master,4,male, co-applicant,4, unknown / no property,20,none,Rent,2,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,car (new),1318,Rich,Master,4,male,none,4,real estate,54,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,54,no credits taken,business,15945,little,amateur,3,male,none,4, unknown / no property,58,none,Rent,1,skilled employee,1,Yes,Yes,2
+NA,12,critical account,education,2012,NA,Expert,4,female,none,2,car or other,61,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,18,existing credits paid back duly,business,2622,Moderate,Professional,4,male,none,4,car or other,34,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,36,critical account,radio/television,2337,little,Master,4,male,none,4,real estate,36,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,20,delay in paying off in the past,car (used),7057,NA,Expert,3,male,none,4,building society savings agreement/ life insurance,36,bank,Rent,2,qualified employee,2,Yes,Yes,1
+NA,24,existing credits paid back duly,car (new),1469,Moderate,Master,4,male,none,4,real estate,41,none,Rent,1,unskilled,1,None,Yes,1
+Moderate,36,existing credits paid back duly,radio/television,2323,little,Expert,4,male,none,4,car or other,24,none,Rent,1,skilled employee,1,None,Yes,1
+NA,6,delay in paying off in the past,radio/television,932,little,Professional,3,female,none,2,real estate,24,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,9,critical account,furniture/equipment,1919,little,Expert,4,male,none,3,car or other,35,none,Rent,1,skilled employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,car (used),2445,NA,amateur,2,male,none,4,car or other,26,none,Rent,1,skilled employee,1,Yes,Yes,1
+Moderate,24,critical account,Others,11938,little,Professional,2,male, co-applicant,3,car or other,39,none,Own,2,qualified employee,2,Yes,Yes,2
+NA,18,all credits paid back duly,car (new),6458,little,Master,2,male,none,4, unknown / no property,39,bank,Own,2,qualified employee,2,Yes,Yes,2
+Moderate,12,existing credits paid back duly,car (new),6078,little,Expert,2,male,none,2,car or other,32,none,Own,1,skilled employee,1,None,Yes,1
+little,24,existing credits paid back duly,furniture/equipment,7721,NA,amateur,1,female,none,2,building society savings agreement/ life insurance,30,none,Own,1,skilled employee,1,Yes,No,1
+Moderate,14,existing credits paid back duly,business,1410,Quite Rich,Master,1,male,none,2,real estate,35,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,6,delay in paying off in the past,business,1449,Moderate,Master,1,male,none,2,car or other,31,bank,Own,2,skilled employee,2,None,Yes,1
+Rich,15,existing credits paid back duly,education,392,little,amateur,4,female,none,4,building society savings agreement/ life insurance,23,none,Rent,1,skilled employee,1,Yes,Yes,1
+Moderate,18,existing credits paid back duly,car (new),6260,little,Expert,3,male,none,3,real estate,28,none,Rent,1,unskilled,1,None,Yes,1
+NA,36,critical account,car (new),7855,little,Professional,4,female,none,2,real estate,25,stores,Own,2,skilled employee,1,Yes,Yes,2
+little,12,existing credits paid back duly,radio/television,1680,Quite Rich,Master,3,male,none,1,real estate,35,none,Own,1,skilled employee,1,None,Yes,1
+NA,48,critical account,radio/television,3578,NA,Master,4,male,none,1,real estate,47,none,Own,1,skilled employee,1,Yes,Yes,1
+little,42,existing credits paid back duly,radio/television,7174,NA,Expert,4,female,none,3,car or other,30,none,Own,1,qualified employee,1,Yes,Yes,2
+little,10,critical account,furniture/equipment,2132,NA,amateur,2,female, co-applicant,3,real estate,27,none,Rent,2,skilled employee,1,None,No,1
+little,33,critical account,furniture/equipment,4281,Quite Rich,Professional,1,female,none,4,car or other,23,none,Own,2,skilled employee,1,None,Yes,2
+Moderate,12,critical account,car (new),2366,Quite Rich,Expert,3,male,none,3,car or other,36,none,Own,1,qualified employee,1,Yes,Yes,1
+little,21,existing credits paid back duly,radio/television,1835,little,Professional,3,female,none,2,real estate,25,none,Own,2,skilled employee,1,Yes,Yes,2
+NA,24,critical account,car (used),3868,little,Master,4,female,none,2,car or other,41,none,Rent,2,qualified employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,furniture/equipment,1768,little,Professional,3,male,none,2,real estate,24,none,Rent,1,unskilled,1,None,Yes,1
+Rich,10,critical account,car (new),781,little,Master,4,male,none,4, unknown / no property,63,none,For Free,2,skilled employee,1,Yes,Yes,1
+Moderate,18,existing credits paid back duly,furniture/equipment,1924,NA,amateur,4,female,none,3,real estate,27,none,Rent,1,skilled employee,1,None,Yes,2
+little,12,critical account,car (new),2121,little,Professional,4,male,none,2,building society savings agreement/ life insurance,30,none,Own,2,skilled employee,1,None,Yes,1
+little,12,existing credits paid back duly,radio/television,701,little,Professional,4,male,none,2,real estate,40,none,Own,1,unskilled,1,None,Yes,1
+Moderate,12,existing credits paid back duly,repairs,639,little,Professional,4,male,none,2,car or other,30,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,12,critical account,car (used),1860,little,Unemployed,4,male,none,2,car or other,34,none,Own,2,qualified employee,1,Yes,Yes,1
+little,12,critical account,car (new),3499,little,Professional,3,female, co-applicant,2,real estate,29,none,Own,2,skilled employee,1,None,Yes,2
+Moderate,48,existing credits paid back duly,car (new),8487,NA,Expert,1,female,none,2,car or other,24,none,Own,1,skilled employee,1,None,Yes,1
+little,36,delay in paying off in the past,education,6887,little,Professional,4,male,none,3,building society savings agreement/ life insurance,29,stores,Own,1,skilled employee,1,Yes,Yes,2
+NA,15,existing credits paid back duly,furniture/equipment,2708,little,amateur,2,male,none,3,building society savings agreement/ life insurance,27,bank,Own,2,unskilled,1,None,Yes,1
+NA,18,existing credits paid back duly,furniture/equipment,1984,little,Professional,4,male,none,4, unknown / no property,47,bank,For Free,2,skilled employee,1,None,Yes,1
+NA,60,existing credits paid back duly,radio/television,10144,Moderate,Expert,2,female,none,4,real estate,21,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,12,critical account,radio/television,1240,NA,Master,4,female,none,2,real estate,38,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,27,delay in paying off in the past,car (used),8613,Rich,Professional,2,male,none,2,car or other,27,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,766,Quite Rich,Professional,4,male,none,3,real estate,66,none,Own,1,unskilled,1,None,Yes,2
+Moderate,15,critical account,radio/television,2728,NA,Expert,4,male,guarantor,2,real estate,35,bank,Own,3,skilled employee,1,Yes,Yes,1
+Rich,12,existing credits paid back duly,radio/television,1881,little,Professional,2,female,none,2,car or other,44,none,Rent,1,unskilled,1,Yes,Yes,1
+Rich,6,existing credits paid back duly,car (new),709,Rich,amateur,2,male,none,2,real estate,27,none,Own,1,unemployed,1,None,No,1
+Moderate,36,existing credits paid back duly,radio/television,4795,little,amateur,4,female,none,1, unknown / no property,30,none,Own,1,qualified employee,1,Yes,Yes,1
+little,27,existing credits paid back duly,radio/television,3416,little,Professional,3,male,none,2,car or other,27,none,Own,1,qualified employee,1,None,Yes,1
+little,18,existing credits paid back duly,furniture/equipment,2462,little,Professional,2,male,none,2,car or other,22,none,Own,1,skilled employee,1,None,Yes,2
+NA,21,critical account,furniture/equipment,2288,little,amateur,4,female,none,4,building society savings agreement/ life insurance,23,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,48,all credits paid back duly,business,3566,Moderate,Expert,4,male,none,2,car or other,30,none,Own,1,skilled employee,1,None,Yes,1
+little,6,critical account,car (new),860,little,Master,1,female,none,4, unknown / no property,39,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,12,critical account,car (new),682,Moderate,Expert,4,female,none,3,car or other,51,none,Own,2,skilled employee,1,Yes,Yes,1
+little,36,critical account,furniture/equipment,5371,little,Professional,3,male,guarantor,2,building society savings agreement/ life insurance,28,none,Own,2,skilled employee,1,None,Yes,1
+NA,18,critical account,radio/television,1582,Rich,Master,4,male,none,4,car or other,46,none,Own,2,skilled employee,1,None,Yes,1
+NA,6,existing credits paid back duly,radio/television,1346,Moderate,Master,2,male,none,4, unknown / no property,42,bank,For Free,1,skilled employee,2,Yes,Yes,1
+NA,10,existing credits paid back duly,radio/television,1924,little,Professional,1,male,none,4,building society savings agreement/ life insurance,38,none,Own,1,skilled employee,1,Yes,No,1
+Rich,36,existing credits paid back duly,radio/television,5848,little,Professional,4,male,none,1,car or other,24,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,24,critical account,car (used),7758,Rich,Master,2,female,none,4, unknown / no property,29,none,Rent,1,skilled employee,1,None,Yes,1
+Moderate,24,delay in paying off in the past,business,6967,Moderate,Expert,4,male,none,4,car or other,36,none,Rent,1,qualified employee,1,Yes,Yes,1
+little,12,existing credits paid back duly,furniture/equipment,1282,little,Professional,2,female,none,4,car or other,20,none,Rent,1,skilled employee,1,None,Yes,2
+little,9,critical account,repairs,1288,Moderate,Master,3,male,guarantor,4,real estate,48,none,Own,2,skilled employee,2,None,No,1
+little,12,all credits paid back duly,retraining,339,little,Master,4,male,none,1,car or other,45,bank,Own,1,unskilled,1,None,Yes,1
+Moderate,24,existing credits paid back duly,car (new),3512,Moderate,Expert,2,male,none,3,car or other,38,bank,Own,2,skilled employee,1,Yes,Yes,1
+NA,6,critical account,radio/television,1898,NA,Professional,1,male,none,2,real estate,34,none,Own,2,unskilled,2,None,Yes,1
+NA,24,critical account,radio/television,2872,Moderate,Master,3,male,none,4,real estate,36,none,Own,1,skilled employee,2,Yes,Yes,1
+NA,18,critical account,car (new),1055,little,amateur,4,female,none,1,building society savings agreement/ life insurance,30,none,Own,2,skilled employee,1,None,Yes,1
+NA,15,existing credits paid back duly,domestic appliances,1262,Quite Rich,Expert,4,male,none,3,building society savings agreement/ life insurance,36,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,10,existing credits paid back duly,car (new),7308,little,Unemployed,2,male,none,4, unknown / no property,70,bank,For Free,1,qualified employee,1,Yes,Yes,1
+NA,36,existing credits paid back duly,car (new),909,Quite Rich,Master,4,male,none,4,building society savings agreement/ life insurance,36,none,Own,1,skilled employee,1,None,Yes,1
+NA,6,existing credits paid back duly,furniture/equipment,2978,Quite Rich,Professional,1,male,none,2,car or other,32,none,Own,1,skilled employee,1,Yes,Yes,1
+little,18,existing credits paid back duly,furniture/equipment,1131,little,Unemployed,4,female,none,2,car or other,33,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,11,existing credits paid back duly,furniture/equipment,1577,Rich,amateur,4,female,none,1,real estate,20,none,Own,1,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,furniture/equipment,3972,little,Expert,2,female,none,4,building society savings agreement/ life insurance,25,none,Rent,1,skilled employee,1,Yes,Yes,1
+Moderate,24,critical account,business,1935,little,Master,4,male,none,4,real estate,31,none,Own,2,skilled employee,1,Yes,Yes,2
+little,15,no credits taken,car (new),950,little,Master,4,male,none,3,car or other,33,none,Rent,2,skilled employee,2,None,Yes,2
+NA,12,existing credits paid back duly,furniture/equipment,763,little,Professional,4,female,none,1,real estate,26,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,24,delay in paying off in the past,furniture/equipment,2064,little,Unemployed,3,female,none,2,building society savings agreement/ life insurance,34,none,Own,1,qualified employee,1,Yes,Yes,2
+Moderate,8,existing credits paid back duly,radio/television,1414,little,Professional,4,male,guarantor,2,real estate,33,none,Own,1,skilled employee,1,None,No,1
+little,21,delay in paying off in the past,education,3414,little,amateur,2,male,none,1,building society savings agreement/ life insurance,26,none,Own,2,skilled employee,1,None,Yes,2
+NA,30,all credits paid back duly,car (used),7485,NA,Unemployed,4,female,none,1,real estate,53,bank,Own,1,qualified employee,1,Yes,Yes,2
+little,12,existing credits paid back duly,furniture/equipment,2577,little,Professional,2,male,none,1,car or other,42,none,Own,1,skilled employee,1,None,Yes,1
+little,6,critical account,radio/television,338,Quite Rich,Master,4,male,none,4,car or other,52,none,Own,2,skilled employee,1,None,Yes,1
+NA,12,existing credits paid back duly,radio/television,1963,little,Expert,4,male,none,2,car or other,31,none,Rent,2,qualified employee,2,Yes,Yes,1
+little,21,critical account,car (new),571,little,Master,4,male,none,4,real estate,65,none,Own,2,skilled employee,1,None,Yes,1
+NA,36,delay in paying off in the past,business,9572,little,amateur,1,male,none,1,car or other,28,none,Own,2,skilled employee,1,None,Yes,2
+Moderate,36,delay in paying off in the past,business,4455,little,Professional,2,male,none,2,real estate,30,stores,Own,2,qualified employee,1,Yes,Yes,2
+little,21,all credits paid back duly,car (new),1647,NA,Professional,4,male,none,2,building society savings agreement/ life insurance,40,none,Own,2,unskilled,2,None,Yes,2
+NA,24,critical account,furniture/equipment,3777,Rich,Professional,4,male,none,4,real estate,50,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,18,critical account,car (new),884,little,Master,4,male,none,4,car or other,36,bank,Own,1,skilled employee,2,Yes,Yes,2
+NA,15,critical account,radio/television,1360,little,Professional,4,male,none,2,building society savings agreement/ life insurance,31,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,9,all credits paid back duly,car (used),5129,little,Master,2,female,none,4, unknown / no property,74,bank,For Free,1,qualified employee,2,Yes,Yes,2
+Moderate,16,critical account,car (new),1175,little,Unemployed,2,male,none,3,car or other,68,none,For Free,3,unemployed,1,Yes,Yes,1
+little,12,existing credits paid back duly,radio/television,674,Moderate,Expert,4,male,none,1,building society savings agreement/ life insurance,20,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,18,no credits taken,furniture/equipment,3244,little,Professional,1,female,none,4,car or other,33,bank,Own,2,skilled employee,1,Yes,Yes,1
+NA,24,existing credits paid back duly,business,4591,Rich,Professional,2,male,none,3,building society savings agreement/ life insurance,54,none,Own,3,qualified employee,1,Yes,Yes,2
+Moderate,48,no credits taken,business,3844,Moderate,Expert,4,male,none,4, unknown / no property,34,none,For Free,1,unskilled,2,None,Yes,2
+Moderate,27,existing credits paid back duly,business,3915,little,Professional,4,male,none,2,car or other,36,none,Own,1,skilled employee,2,Yes,Yes,2
+NA,6,existing credits paid back duly,radio/television,2108,little,Expert,2,male,none,2,real estate,29,none,Rent,1,skilled employee,1,None,Yes,1
+Moderate,45,existing credits paid back duly,radio/television,3031,Moderate,Professional,4,male,guarantor,4,building society savings agreement/ life insurance,21,none,Rent,1,skilled employee,1,None,Yes,2
+Moderate,9,critical account,education,1501,little,Master,2,female,none,3,car or other,34,none,Own,2,qualified employee,1,Yes,Yes,2
+NA,6,critical account,radio/television,1382,little,Professional,1,female,none,1,car or other,28,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,12,existing credits paid back duly,furniture/equipment,951,Moderate,amateur,4,female,none,4,car or other,27,bank,Rent,4,skilled employee,1,None,Yes,2
+Moderate,24,existing credits paid back duly,car (used),2760,NA,Master,4,male,none,4, unknown / no property,36,bank,For Free,1,skilled employee,1,Yes,Yes,1
+Moderate,18,delay in paying off in the past,furniture/equipment,4297,little,Master,4,male,none,3, unknown / no property,40,none,Own,1,qualified employee,1,Yes,Yes,2
+NA,9,critical account,education,936,Quite Rich,Master,4,male,none,2,car or other,52,none,Own,2,skilled employee,1,Yes,Yes,1
+little,12,existing credits paid back duly,car (new),1168,little,Professional,4,male,none,3,real estate,27,none,Own,1,unskilled,1,None,Yes,1
+NA,27,delay in paying off in the past,business,5117,little,Expert,3,male,none,4,car or other,26,none,Own,2,skilled employee,1,None,Yes,1
+little,12,existing credits paid back duly,retraining,902,little,Expert,4,male,none,4,building society savings agreement/ life insurance,21,none,Rent,1,skilled employee,1,None,Yes,2
+NA,12,critical account,car (new),1495,little,Master,4,male,none,1,real estate,38,none,Own,2,unskilled,2,None,Yes,1
+little,30,critical account,car (used),10623,little,Master,3,male,none,4, unknown / no property,38,none,For Free,3,qualified employee,2,Yes,Yes,1
+NA,12,critical account,furniture/equipment,1935,little,Master,4,male,none,4,real estate,43,none,Own,3,skilled employee,1,Yes,Yes,1
+Moderate,12,critical account,domestic appliances,1424,little,Expert,4,male,none,3,building society savings agreement/ life insurance,26,none,Own,1,skilled employee,1,None,Yes,1
+little,24,existing credits paid back duly,business,6568,little,Professional,2,male,none,2,car or other,21,stores,Own,1,unskilled,1,None,Yes,1
+NA,12,existing credits paid back duly,car (used),1413,Rich,Expert,3,male,none,2,building society savings agreement/ life insurance,55,none,Own,1,skilled employee,1,None,No,1
+NA,9,critical account,radio/television,3074,NA,Professional,1,male,none,2,real estate,33,none,Own,2,skilled employee,2,None,Yes,1
+NA,36,existing credits paid back duly,radio/television,3835,NA,Master,2,female,none,4,real estate,45,none,Own,1,unskilled,1,Yes,Yes,1
+little,27,no credits taken,business,5293,little,Unemployed,2,male,none,4,building society savings agreement/ life insurance,50,stores,Own,2,skilled employee,1,Yes,Yes,2
+Rich,30,delay in paying off in the past,business,1908,little,Master,4,male,none,4,real estate,66,none,Own,1,qualified employee,1,Yes,Yes,2
+NA,36,critical account,radio/television,3342,NA,Master,4,male,none,2,car or other,51,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,6,critical account,retraining,932,NA,Expert,1,female,none,3,building society savings agreement/ life insurance,39,none,Own,2,unskilled,1,None,Yes,1
+little,18,no credits taken,business,3104,little,Expert,3,male,none,1,building society savings agreement/ life insurance,31,bank,Own,1,skilled employee,1,Yes,Yes,1
+Rich,36,existing credits paid back duly,radio/television,3913,little,Professional,2,male,none,2,real estate,23,none,Own,1,skilled employee,1,Yes,Yes,1
+little,24,existing credits paid back duly,furniture/equipment,3021,little,Professional,2,male,none,2,real estate,24,none,Rent,1,unskilled,1,None,Yes,1
+NA,10,existing credits paid back duly,car (new),1364,little,Professional,2,female,none,4,car or other,64,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,625,little,amateur,4,male,guarantor,1,real estate,26,bank,Own,1,unskilled,1,None,Yes,1
+little,12,existing credits paid back duly,education,1200,NA,Professional,4,female,none,4,building society savings agreement/ life insurance,23,bank,Rent,1,skilled employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,radio/television,707,little,Professional,4,male,none,2,real estate,30,bank,Own,2,skilled employee,1,None,Yes,1
+NA,24,delay in paying off in the past,business,2978,NA,Professional,4,male,none,4,real estate,32,none,Own,2,skilled employee,2,Yes,Yes,1
+NA,15,existing credits paid back duly,car (used),4657,little,Professional,3,male,none,2,car or other,30,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,36,no credits taken,repairs,2613,little,Professional,4,male,none,2,car or other,27,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,48,existing credits paid back duly,radio/television,10961,Rich,Expert,1,male, co-applicant,2, unknown / no property,27,bank,Own,2,skilled employee,1,Yes,Yes,2
+little,12,existing credits paid back duly,furniture/equipment,7865,little,Master,4,male,none,4, unknown / no property,53,none,For Free,1,qualified employee,1,Yes,Yes,2
+NA,9,existing credits paid back duly,radio/television,1478,little,Expert,4,male,none,2,car or other,22,none,Own,1,skilled employee,1,None,Yes,2
+little,24,existing credits paid back duly,furniture/equipment,3149,little,amateur,4,male,none,1, unknown / no property,22,bank,For Free,1,skilled employee,1,None,Yes,1
+Rich,36,existing credits paid back duly,radio/television,4210,little,Professional,4,male,none,2,car or other,26,none,Own,1,skilled employee,1,None,Yes,2
+NA,9,existing credits paid back duly,car (new),2507,Quite Rich,Master,2,male,none,4, unknown / no property,51,none,For Free,1,unskilled,1,None,Yes,1
+NA,12,existing credits paid back duly,radio/television,2141,Moderate,Expert,3,male,none,1, unknown / no property,35,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,18,existing credits paid back duly,radio/television,866,little,Professional,4,male,guarantor,2,real estate,25,none,Own,1,unskilled,1,None,Yes,1
+NA,4,critical account,radio/television,1544,little,Expert,2,male,none,1,real estate,42,none,Own,3,unskilled,2,None,Yes,1
+little,24,existing credits paid back duly,radio/television,1823,little,Unemployed,4,male,none,2,car or other,30,stores,Own,1,qualified employee,2,None,Yes,2
+Moderate,6,existing credits paid back duly,car (new),14555,NA,Unemployed,1,male,none,2,building society savings agreement/ life insurance,23,none,Own,1,unemployed,1,Yes,Yes,2
+Moderate,21,existing credits paid back duly,business,2767,Moderate,Master,4,male,none,2,car or other,61,bank,Rent,2,unskilled,1,None,Yes,2
+NA,12,critical account,radio/television,1291,little,Professional,4,female,none,2,building society savings agreement/ life insurance,35,none,Own,2,skilled employee,1,None,Yes,1
+little,30,existing credits paid back duly,radio/television,2522,little,Master,1,male,guarantor,3,building society savings agreement/ life insurance,39,none,Own,1,skilled employee,2,None,Yes,1
+little,24,existing credits paid back duly,car (new),915,NA,Master,4,female,none,2,car or other,29,bank,Own,1,skilled employee,1,None,Yes,2
+NA,6,existing credits paid back duly,radio/television,1595,little,Expert,3,male,none,2,building society savings agreement/ life insurance,51,none,Own,1,skilled employee,2,None,Yes,1
+little,48,no credits taken,car (used),4605,little,Master,3,male,none,4, unknown / no property,24,none,For Free,2,skilled employee,2,None,Yes,2
+NA,12,critical account,business,1185,little,Professional,3,female,none,2,real estate,27,none,Own,2,skilled employee,1,None,Yes,1
+NA,12,all credits paid back duly,retraining,3447,Quite Rich,Professional,4,female,none,3,real estate,35,none,Own,1,unskilled,2,None,Yes,1
+NA,24,existing credits paid back duly,business,1258,little,Expert,4,male,none,1,real estate,25,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,12,critical account,radio/television,717,little,Master,4,male,none,4,real estate,52,none,Own,3,skilled employee,1,None,Yes,1
+NA,6,no credits taken,car (new),1204,Moderate,Professional,4,male,none,1, unknown / no property,35,bank,Rent,1,skilled employee,1,None,No,1
+Rich,24,existing credits paid back duly,furniture/equipment,1925,little,Professional,2,male,none,2,real estate,26,none,Own,1,skilled employee,1,None,Yes,1
+NA,18,existing credits paid back duly,radio/television,433,little,Unemployed,3,female, co-applicant,4,real estate,22,none,Rent,1,skilled employee,1,None,Yes,2
+little,6,critical account,car (new),666,Rich,Expert,3,female,none,4,real estate,39,none,Own,2,unskilled,1,Yes,Yes,1
+Rich,12,existing credits paid back duly,furniture/equipment,2251,little,Professional,1,female,none,2,car or other,46,none,Own,1,unskilled,1,None,Yes,1
+Moderate,30,existing credits paid back duly,car (new),2150,little,Professional,4,female,guarantor,2, unknown / no property,24,bank,Own,1,skilled employee,1,None,Yes,2
+NA,24,delay in paying off in the past,furniture/equipment,4151,Moderate,Professional,2,male,none,3,building society savings agreement/ life insurance,35,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,9,existing credits paid back duly,furniture/equipment,2030,NA,Expert,2,male,none,1,car or other,24,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,60,delay in paying off in the past,radio/television,7418,NA,Professional,1,male,none,1,real estate,27,none,Own,1,unskilled,1,None,Yes,1
+NA,24,critical account,radio/television,2684,little,Professional,4,male,none,2,real estate,35,none,Own,2,unskilled,1,None,Yes,1
+little,12,all credits paid back duly,radio/television,2149,little,Professional,4,male,none,1, unknown / no property,29,none,For Free,1,skilled employee,1,None,Yes,2
+NA,15,existing credits paid back duly,car (used),3812,Moderate,amateur,1,female,none,4,car or other,23,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,11,critical account,radio/television,1154,Moderate,Unemployed,4,female,none,4,real estate,57,none,Own,3,unskilled,1,None,Yes,1
+little,12,existing credits paid back duly,furniture/equipment,1657,little,Professional,2,male,none,2,real estate,27,none,Own,1,skilled employee,1,None,Yes,1
+little,24,existing credits paid back duly,radio/television,1603,little,Master,4,female,none,4,car or other,55,none,Own,1,skilled employee,1,None,Yes,1
+little,18,critical account,car (new),5302,little,Master,2,male,none,4, unknown / no property,36,none,For Free,3,qualified employee,1,Yes,Yes,1
+NA,12,critical account,education,2748,little,Master,2,female,none,4, unknown / no property,57,bank,For Free,3,unskilled,1,None,Yes,1
+NA,10,critical account,car (new),1231,little,Master,3,male,none,4,real estate,32,none,Own,2,unskilled,2,None,No,1
+Moderate,15,existing credits paid back duly,radio/television,802,little,Master,4,male,none,3,car or other,37,none,Own,1,skilled employee,2,None,Yes,2
+NA,36,critical account,business,6304,NA,Master,4,male,none,4,real estate,36,none,Own,2,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,radio/television,1533,little,amateur,4,female,none,3,car or other,38,stores,Own,1,skilled employee,1,Yes,Yes,1
+little,14,existing credits paid back duly,car (new),8978,little,Master,1,male,none,4,building society savings agreement/ life insurance,45,none,Own,1,qualified employee,1,Yes,No,2
+NA,24,existing credits paid back duly,radio/television,999,NA,Master,4,male,none,2,car or other,25,none,Own,2,skilled employee,1,None,Yes,1
+NA,18,existing credits paid back duly,car (new),2662,NA,Expert,4,male,none,3,building society savings agreement/ life insurance,32,none,Own,1,skilled employee,1,None,No,1
+NA,12,critical account,furniture/equipment,1402,Quite Rich,Expert,3,female,none,4,car or other,37,none,Rent,1,skilled employee,1,Yes,Yes,1
+Moderate,48,all credits paid back duly,car (new),12169,NA,Unemployed,4,male, co-applicant,4, unknown / no property,36,none,For Free,1,qualified employee,1,Yes,Yes,1
+Moderate,48,existing credits paid back duly,radio/television,3060,little,Expert,4,male,none,4,real estate,28,none,Own,2,skilled employee,1,None,Yes,2
+little,30,existing credits paid back duly,repairs,11998,little,amateur,1,male,none,1, unknown / no property,34,none,Own,1,unskilled,1,Yes,Yes,2
+NA,9,existing credits paid back duly,radio/television,2697,little,Professional,1,male,none,2,real estate,32,none,Own,1,skilled employee,2,None,Yes,1
+NA,18,critical account,radio/television,2404,little,Professional,2,female,none,2,car or other,26,none,Own,2,skilled employee,1,None,Yes,1
+little,12,existing credits paid back duly,furniture/equipment,1262,NA,Master,2,male,none,4,building society savings agreement/ life insurance,49,none,Own,1,unskilled,1,Yes,Yes,1
+NA,6,existing credits paid back duly,furniture/equipment,4611,little,amateur,1,female,none,4,building society savings agreement/ life insurance,32,none,Own,1,skilled employee,1,None,Yes,2
+NA,24,existing credits paid back duly,radio/television,1901,Moderate,Professional,4,male,none,4,car or other,29,none,Rent,1,qualified employee,1,Yes,Yes,1
+NA,15,critical account,car (used),3368,Rich,Master,3,male,none,4, unknown / no property,23,none,Rent,2,skilled employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,furniture/equipment,1574,little,Professional,4,male,none,2,real estate,50,none,Own,1,skilled employee,1,None,Yes,1
+Rich,18,all credits paid back duly,radio/television,1445,NA,Expert,4,male,none,4,car or other,49,bank,Own,1,unskilled,1,None,Yes,1
+NA,15,critical account,furniture/equipment,1520,NA,Master,4,male,none,4,building society savings agreement/ life insurance,63,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,24,critical account,car (new),3878,Moderate,amateur,4,male,none,2,car or other,37,none,Own,1,skilled employee,1,Yes,Yes,1
+little,47,existing credits paid back duly,car (new),10722,little,amateur,1,female,none,1,real estate,35,none,Own,1,unskilled,1,Yes,Yes,1
+little,48,existing credits paid back duly,car (used),4788,little,Expert,4,male,none,3,building society savings agreement/ life insurance,26,none,Own,1,skilled employee,2,None,Yes,1
+Moderate,48,delay in paying off in the past,Others,7582,Moderate,Unemployed,2,male,none,4, unknown / no property,31,none,For Free,1,qualified employee,1,Yes,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,1092,little,Professional,4,female,guarantor,4,real estate,49,none,Own,2,skilled employee,1,Yes,Yes,1
+little,24,delay in paying off in the past,radio/television,1024,little,amateur,4,male,none,4,real estate,48,stores,Own,1,skilled employee,1,None,Yes,2
+NA,12,existing credits paid back duly,business,1076,little,Professional,2,male,none,2,real estate,26,none,Own,1,skilled employee,1,Yes,No,1
+Moderate,36,existing credits paid back duly,car (used),9398,little,amateur,1,male,none,4,car or other,28,none,Rent,1,qualified employee,1,Yes,Yes,2
+little,24,critical account,car (used),6419,little,Master,2,female,none,4, unknown / no property,44,none,For Free,2,qualified employee,2,Yes,Yes,1
+Rich,42,critical account,car (used),4796,little,Master,4,male,none,4, unknown / no property,56,none,For Free,1,skilled employee,1,None,Yes,1
+NA,48,critical account,business,7629,NA,Master,4,male,none,2,car or other,46,bank,Own,2,qualified employee,2,None,Yes,1
+Moderate,48,existing credits paid back duly,furniture/equipment,9960,little,amateur,1,female,none,2,car or other,26,none,Own,1,skilled employee,1,Yes,Yes,2
+NA,12,existing credits paid back duly,car (used),4675,NA,amateur,1,female,none,4,car or other,20,none,Rent,1,skilled employee,1,None,Yes,1
+NA,10,existing credits paid back duly,car (new),1287,NA,Master,4,male, co-applicant,2,building society savings agreement/ life insurance,45,none,Own,1,unskilled,1,None,No,1
+NA,18,existing credits paid back duly,furniture/equipment,2515,little,Professional,3,male,none,4,real estate,43,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,21,critical account,furniture/equipment,2745,Rich,Expert,3,male,none,2,car or other,32,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,6,existing credits paid back duly,car (new),672,little,Unemployed,1,female,none,4,real estate,54,none,Own,1,unemployed,1,Yes,Yes,1
+Moderate,36,no credits taken,radio/television,3804,little,Professional,4,female,none,1,car or other,42,none,Own,1,skilled employee,1,Yes,Yes,2
+Rich,24,critical account,car (new),1344,NA,Expert,4,male,none,2,real estate,37,bank,Own,2,unskilled,2,None,Yes,2
+little,10,critical account,car (new),1038,little,Expert,4,male, co-applicant,3,building society savings agreement/ life insurance,49,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,48,critical account,car (new),10127,Quite Rich,Professional,2,male,none,2, unknown / no property,44,bank,For Free,1,skilled employee,1,None,Yes,2
+NA,6,existing credits paid back duly,furniture/equipment,1543,Rich,Professional,4,male,none,2,real estate,33,none,Own,1,skilled employee,1,None,Yes,1
+NA,30,existing credits paid back duly,car (used),4811,NA,Expert,2,female,none,4,building society savings agreement/ life insurance,24,stores,Rent,1,unskilled,1,None,Yes,1
+little,12,existing credits paid back duly,radio/television,727,Moderate,amateur,4,male,none,3, unknown / no property,33,none,Own,1,unskilled,1,Yes,Yes,2
+Moderate,8,existing credits paid back duly,furniture/equipment,1237,little,Professional,3,female,none,4,real estate,24,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,9,existing credits paid back duly,car (new),276,little,Professional,4,male,none,4,real estate,22,none,Rent,1,unskilled,1,None,Yes,1
+Moderate,48,existing credits paid back duly,Others,5381,NA,Unemployed,3,male,none,4, unknown / no property,40,bank,For Free,1,unemployed,1,Yes,Yes,1
+NA,24,existing credits paid back duly,furniture/equipment,5511,Moderate,Professional,4,male,none,1,car or other,25,stores,Own,1,skilled employee,1,None,Yes,1
+Rich,24,existing credits paid back duly,furniture/equipment,3749,little,amateur,2,female,none,4,car or other,26,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,car (new),685,little,Expert,2,male,none,3,car or other,25,bank,Own,1,unskilled,1,None,Yes,2
+Rich,4,existing credits paid back duly,car (new),1494,NA,amateur,1,male,none,2,real estate,29,none,Own,1,unskilled,2,None,No,1
+little,36,all credits paid back duly,furniture/equipment,2746,little,Master,4,male,none,4,car or other,31,bank,Own,1,skilled employee,1,None,Yes,2
+little,12,existing credits paid back duly,furniture/equipment,708,little,Professional,2,male,guarantor,3,building society savings agreement/ life insurance,38,none,Own,1,unskilled,2,None,Yes,1
+Moderate,24,existing credits paid back duly,furniture/equipment,4351,NA,Professional,1,female,none,4,building society savings agreement/ life insurance,48,none,Own,1,unskilled,1,Yes,Yes,1
+NA,12,critical account,education,701,little,Professional,4,male,none,2,car or other,32,none,Own,2,skilled employee,1,None,Yes,1
+little,15,delay in paying off in the past,furniture/equipment,3643,little,Master,1,female,none,4,building society savings agreement/ life insurance,27,none,Own,2,unskilled,1,None,Yes,1
+Moderate,30,critical account,car (new),4249,little,Unemployed,4,male,none,2,car or other,28,none,Own,2,qualified employee,1,None,Yes,2
+little,24,existing credits paid back duly,radio/television,1938,little,amateur,4,male,none,3,building society savings agreement/ life insurance,32,none,Own,1,skilled employee,1,None,Yes,2
+little,24,existing credits paid back duly,car (used),2910,little,Expert,2,male,none,1, unknown / no property,34,none,For Free,1,qualified employee,1,Yes,Yes,1
+little,18,existing credits paid back duly,furniture/equipment,2659,Rich,Professional,4,male,none,2,car or other,28,none,Own,1,skilled employee,1,None,Yes,1
+NA,18,critical account,car (new),1028,little,Professional,4,female,none,3,real estate,36,none,Own,2,skilled employee,1,None,Yes,1
+little,8,critical account,car (new),3398,little,Expert,1,male,none,4,real estate,39,none,Own,2,unskilled,1,None,No,1
+NA,12,critical account,furniture/equipment,5801,NA,Master,2,male,none,4,building society savings agreement/ life insurance,49,none,Rent,1,skilled employee,1,Yes,Yes,1
+NA,24,existing credits paid back duly,car (new),1525,Rich,Expert,4,female,none,3,car or other,34,none,Own,1,skilled employee,2,Yes,Yes,1
+Rich,36,existing credits paid back duly,radio/television,4473,little,Master,4,male,none,2,car or other,31,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,6,existing credits paid back duly,radio/television,1068,little,Master,4,male,none,4,car or other,28,none,Own,1,skilled employee,2,None,Yes,1
+little,24,critical account,car (used),6615,little,Unemployed,2,male,none,4, unknown / no property,75,none,For Free,2,qualified employee,1,Yes,Yes,1
+NA,18,critical account,education,1864,Moderate,Professional,4,female,none,2,real estate,30,none,Own,2,skilled employee,1,None,Yes,2
+Moderate,60,existing credits paid back duly,car (new),7408,Moderate,amateur,4,female,none,2,building society savings agreement/ life insurance,24,none,Own,1,qualified employee,1,None,Yes,2
+NA,48,critical account,car (used),11590,Moderate,Professional,2,female,none,4,car or other,24,bank,Rent,2,unskilled,1,None,Yes,2
+little,24,no credits taken,furniture/equipment,4110,little,Master,3,male,none,4, unknown / no property,23,bank,Rent,2,skilled employee,2,None,Yes,2
+little,6,critical account,furniture/equipment,3384,little,Professional,1,male,none,4,real estate,44,none,Rent,1,qualified employee,1,Yes,Yes,2
+Moderate,13,existing credits paid back duly,radio/television,2101,little,amateur,2,female,guarantor,4,building society savings agreement/ life insurance,23,none,Own,1,unskilled,1,None,Yes,1
+little,15,existing credits paid back duly,domestic appliances,1275,NA,Professional,4,female,none,2,car or other,24,none,Rent,1,skilled employee,1,None,Yes,2
+little,24,existing credits paid back duly,furniture/equipment,4169,little,Professional,4,male,none,4,building society savings agreement/ life insurance,28,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,10,existing credits paid back duly,furniture/equipment,1521,little,Professional,4,male,none,2,car or other,31,none,Own,1,unskilled,1,None,Yes,1
+Moderate,24,critical account,education,5743,little,amateur,2,female,none,4, unknown / no property,24,none,For Free,2,skilled employee,1,Yes,Yes,1
+little,21,existing credits paid back duly,furniture/equipment,3599,little,Expert,1,female,none,4,car or other,26,none,Rent,1,unskilled,1,None,Yes,1
+Moderate,18,existing credits paid back duly,radio/television,3213,Quite Rich,amateur,1,male,none,3,real estate,25,none,Rent,1,skilled employee,1,None,Yes,1
+Moderate,18,existing credits paid back duly,business,4439,little,Master,1,male, co-applicant,1,real estate,33,bank,Own,1,qualified employee,1,Yes,Yes,1
+Rich,10,existing credits paid back duly,car (new),3949,little,amateur,1,male,guarantor,1,building society savings agreement/ life insurance,37,none,Own,1,unskilled,2,None,Yes,1
+NA,15,critical account,radio/television,1459,little,Professional,4,female,none,2,car or other,43,none,Own,1,unskilled,1,None,Yes,1
+Moderate,13,critical account,radio/television,882,little,amateur,4,male,guarantor,4,real estate,23,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,24,existing credits paid back duly,radio/television,3758,Quite Rich,Unemployed,1,female,none,4, unknown / no property,23,none,Rent,1,unemployed,1,None,Yes,1
+NA,6,delay in paying off in the past,business,1743,Moderate,Professional,1,male,none,2,real estate,34,none,Own,2,unskilled,1,None,Yes,1
+Moderate,9,critical account,education,1136,Rich,Master,4,male,none,3, unknown / no property,32,none,For Free,2,skilled employee,2,None,Yes,2
+NA,9,existing credits paid back duly,domestic appliances,1236,little,amateur,1,female,none,4,real estate,23,none,Rent,1,skilled employee,1,Yes,Yes,1
+Moderate,9,existing credits paid back duly,furniture/equipment,959,little,Professional,1,female,none,2,car or other,29,none,Own,1,skilled employee,1,None,No,2
+NA,18,critical account,car (used),3229,NA,Unemployed,2,male,none,4, unknown / no property,38,none,Own,1,qualified employee,1,Yes,Yes,1
+little,12,no credits taken,radio/television,6199,little,Professional,4,male,none,2,building society savings agreement/ life insurance,28,none,Rent,2,skilled employee,1,Yes,Yes,2
+NA,10,existing credits paid back duly,education,727,Quite Rich,Master,4,male,none,4, unknown / no property,46,none,For Free,1,skilled employee,1,Yes,Yes,1
+Moderate,24,existing credits paid back duly,car (new),1246,little,amateur,4,male,none,2,real estate,23,stores,Own,1,unskilled,1,None,Yes,2
+NA,12,critical account,radio/television,2331,NA,Master,1,male, co-applicant,4,real estate,49,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,36,delay in paying off in the past,radio/television,4463,little,Professional,4,male,none,2,car or other,26,none,Own,2,qualified employee,1,Yes,Yes,2
+NA,12,existing credits paid back duly,radio/television,776,little,Professional,4,male,none,2,real estate,28,none,Own,1,skilled employee,1,None,Yes,1
+little,30,existing credits paid back duly,furniture/equipment,2406,little,Expert,4,female,none,4,real estate,23,none,Rent,1,skilled employee,1,None,Yes,2
+Moderate,18,existing credits paid back duly,education,1239,NA,Professional,4,male,none,4, unknown / no property,61,none,For Free,1,skilled employee,1,None,Yes,1
+Rich,12,existing credits paid back duly,radio/television,3399,NA,Master,2,male,none,3,car or other,37,none,Own,1,qualified employee,1,None,Yes,1
+Rich,12,delay in paying off in the past,car (new),2247,little,Professional,2,female,none,2,car or other,36,stores,Own,2,skilled employee,1,Yes,Yes,1
+NA,6,existing credits paid back duly,furniture/equipment,1766,little,Professional,1,male,none,2,building society savings agreement/ life insurance,21,none,Rent,1,skilled employee,1,None,Yes,1
+little,18,existing credits paid back duly,furniture/equipment,2473,little,Unemployed,4,male,none,1,car or other,25,none,Own,1,unemployed,1,None,Yes,2
+NA,12,existing credits paid back duly,business,1542,little,Expert,2,male,none,4,car or other,36,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,18,critical account,car (used),3850,little,Expert,3,male,none,1,car or other,27,none,Own,2,skilled employee,1,None,Yes,1
+little,18,existing credits paid back duly,furniture/equipment,3650,little,amateur,1,female,none,4,car or other,22,none,Rent,1,skilled employee,1,None,Yes,1
+little,36,existing credits paid back duly,furniture/equipment,3446,little,Master,4,male,none,2,car or other,42,none,Own,1,skilled employee,2,None,Yes,2
+Moderate,18,existing credits paid back duly,furniture/equipment,3001,little,Expert,2,female,none,4,real estate,40,none,Rent,1,skilled employee,1,None,Yes,1
+NA,36,existing credits paid back duly,car (new),3079,NA,Professional,4,male,none,4,real estate,36,none,Own,1,skilled employee,1,None,Yes,1
+NA,18,critical account,radio/television,6070,little,Master,3,male,none,4,car or other,33,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,10,critical account,furniture/equipment,2146,little,amateur,1,female,none,3,real estate,23,none,Rent,2,skilled employee,1,None,Yes,1
+NA,60,critical account,car (new),13756,NA,Master,2,male,none,4, unknown / no property,63,bank,For Free,1,qualified employee,1,Yes,Yes,1
+Moderate,60,all credits paid back duly,Others,14782,Moderate,Master,3,female,none,4, unknown / no property,60,bank,For Free,2,qualified employee,1,Yes,Yes,2
+little,48,all credits paid back duly,business,7685,little,Expert,2,female,guarantor,4,car or other,37,none,Rent,1,skilled employee,1,None,Yes,2
+NA,18,delay in paying off in the past,radio/television,2320,little,Unemployed,2,male,none,3,real estate,34,none,Own,2,skilled employee,1,None,Yes,1
+NA,7,delay in paying off in the past,radio/television,846,NA,Master,3,male,none,4, unknown / no property,36,none,For Free,1,skilled employee,1,None,Yes,1
+Moderate,36,existing credits paid back duly,car (new),14318,little,Master,4,male,none,2, unknown / no property,57,none,For Free,1,qualified employee,1,Yes,Yes,2
+NA,6,critical account,car (new),362,Moderate,Professional,4,female,none,4,car or other,52,none,Own,2,unskilled,1,None,Yes,1
+little,20,existing credits paid back duly,furniture/equipment,2212,NA,Expert,4,male,none,4,car or other,39,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,18,existing credits paid back duly,car (used),12976,little,Unemployed,3,female,none,4, unknown / no property,38,none,For Free,1,qualified employee,1,Yes,Yes,2
+NA,22,existing credits paid back duly,car (new),1283,NA,Expert,4,female,none,4,building society savings agreement/ life insurance,25,none,Rent,1,skilled employee,1,None,Yes,1
+Rich,12,existing credits paid back duly,car (new),1330,little,amateur,4,male,none,1,real estate,26,none,Own,1,skilled employee,1,None,Yes,1
+NA,30,delay in paying off in the past,business,4272,Moderate,Professional,2,male,none,2,building society savings agreement/ life insurance,26,none,Own,2,unskilled,1,None,Yes,1
+NA,18,critical account,radio/television,2238,little,Professional,2,female,none,1,car or other,25,none,Own,2,skilled employee,1,None,Yes,1
+NA,18,existing credits paid back duly,radio/television,1126,NA,amateur,4,female,none,2,real estate,21,none,Rent,1,skilled employee,1,Yes,Yes,1
+Moderate,18,critical account,furniture/equipment,7374,little,Unemployed,4,male,none,4,building society savings agreement/ life insurance,40,stores,Own,2,qualified employee,1,Yes,Yes,1
+Moderate,15,critical account,business,2326,Quite Rich,Professional,2,male,none,4,car or other,27,bank,Own,1,skilled employee,1,None,Yes,1
+NA,9,existing credits paid back duly,business,1449,little,Expert,3,female,none,2,car or other,27,none,Own,2,skilled employee,1,None,Yes,1
+NA,18,existing credits paid back duly,car (new),1820,little,Professional,2,male,none,2,building society savings agreement/ life insurance,30,none,Own,1,qualified employee,1,Yes,Yes,1
+Moderate,12,existing credits paid back duly,furniture/equipment,983,Rich,amateur,1,female,none,4,real estate,19,none,Rent,1,unskilled,1,None,Yes,1
+little,36,existing credits paid back duly,car (new),3249,little,Expert,2,male,none,4, unknown / no property,39,bank,For Free,1,qualified employee,2,Yes,Yes,1
+little,6,critical account,radio/television,1957,little,Expert,1,female,none,4,car or other,31,none,Own,1,skilled employee,1,None,Yes,1
+NA,9,critical account,furniture/equipment,2406,little,Unemployed,2,male,none,3,car or other,31,none,Own,1,qualified employee,1,None,Yes,1
+Moderate,39,delay in paying off in the past,education,11760,Moderate,Expert,2,male,none,3, unknown / no property,32,none,Rent,1,skilled employee,1,Yes,Yes,1
+little,12,existing credits paid back duly,furniture/equipment,2578,little,Unemployed,3,female,none,4, unknown / no property,55,none,For Free,1,qualified employee,1,None,Yes,1
+little,36,critical account,furniture/equipment,2348,little,Professional,3,male,none,2,building society savings agreement/ life insurance,46,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,12,existing credits paid back duly,car (new),1223,little,Master,1,male,none,1,real estate,46,none,Rent,2,skilled employee,1,None,Yes,2
+NA,24,critical account,radio/television,1516,Rich,Professional,4,female,none,1,real estate,43,none,Own,2,unskilled,1,None,Yes,1
+NA,18,existing credits paid back duly,radio/television,1473,little,amateur,3,male,none,4,real estate,39,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,18,critical account,business,1887,NA,Professional,4,male,none,4,real estate,28,bank,Own,2,skilled employee,1,None,Yes,1
+NA,24,delay in paying off in the past,business,8648,little,amateur,2,male,none,2,car or other,27,bank,Own,2,skilled employee,1,Yes,Yes,2
+NA,14,delay in paying off in the past,car (new),802,little,Professional,4,male,none,2,car or other,27,none,Own,2,unskilled,1,None,Yes,1
+Moderate,18,delay in paying off in the past,car (new),2899,NA,Master,4,male,none,4,car or other,43,none,Own,1,skilled employee,2,None,Yes,1
+Moderate,24,existing credits paid back duly,radio/television,2039,little,amateur,1,male,none,1,building society savings agreement/ life insurance,22,none,Own,1,skilled employee,1,Yes,Yes,2
+NA,24,critical account,car (used),2197,NA,Expert,4,male,none,4,car or other,43,none,Own,2,skilled employee,2,Yes,Yes,1
+little,15,existing credits paid back duly,radio/television,1053,little,amateur,4,male,none,2,real estate,27,none,Own,1,skilled employee,1,None,No,1
+NA,24,existing credits paid back duly,radio/television,3235,Quite Rich,Master,3,male,none,2,car or other,26,none,Own,1,qualified employee,1,Yes,Yes,1
+Rich,12,critical account,car (new),939,Quite Rich,Expert,4,male,none,2,real estate,28,none,Own,3,skilled employee,1,Yes,Yes,2
+Moderate,24,existing credits paid back duly,radio/television,1967,little,Master,4,female,none,4,car or other,20,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,33,critical account,car (used),7253,little,Expert,3,male,none,2,car or other,35,none,Own,2,qualified employee,1,Yes,Yes,1
+NA,12,critical account,business,2292,little,Unemployed,4,male,none,2,car or other,42,stores,Own,2,qualified employee,1,Yes,Yes,2
+NA,10,existing credits paid back duly,car (new),1597,Quite Rich,Professional,3,male,none,2, unknown / no property,40,none,Rent,1,unskilled,2,None,No,1
+little,24,existing credits paid back duly,car (new),1381,NA,Professional,4,female,none,2,building society savings agreement/ life insurance,35,none,Own,1,skilled employee,1,None,Yes,2
+NA,36,critical account,car (used),5842,little,Master,2,male,none,2,building society savings agreement/ life insurance,35,none,Own,2,skilled employee,2,Yes,Yes,1
+little,12,existing credits paid back duly,car (new),2579,little,amateur,4,male,none,1,real estate,33,none,Own,1,unskilled,2,None,Yes,2
+little,18,delay in paying off in the past,education,8471,NA,Professional,1,female,none,2,car or other,23,none,Rent,2,skilled employee,1,Yes,Yes,1
+NA,21,existing credits paid back duly,car (new),2782,Quite Rich,Expert,1,female,none,2,car or other,31,bank,Own,1,qualified employee,1,None,Yes,1
+Moderate,18,existing credits paid back duly,car (new),1042,NA,Professional,4,female,none,2,building society savings agreement/ life insurance,33,none,Own,1,skilled employee,1,None,Yes,2
+NA,15,existing credits paid back duly,car (new),3186,Rich,Expert,2,female,none,3,car or other,20,none,Rent,1,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,car (used),2028,NA,Professional,4,male,none,2,car or other,30,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,12,critical account,car (new),958,little,Expert,2,male,none,3,real estate,47,none,Own,2,unskilled,2,None,Yes,1
+NA,21,delay in paying off in the past,furniture/equipment,1591,Moderate,Expert,4,male,none,3,real estate,34,none,Own,2,qualified employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,furniture/equipment,2762,NA,Master,1,female,none,2,building society savings agreement/ life insurance,25,bank,Own,1,skilled employee,1,Yes,Yes,2
+Moderate,18,existing credits paid back duly,car (used),2779,little,Professional,1,male,none,3,car or other,21,none,Rent,1,skilled employee,1,Yes,Yes,1
+NA,28,critical account,radio/television,2743,little,Master,4,male,none,2,car or other,29,none,Own,2,skilled employee,1,None,Yes,1
+NA,18,critical account,radio/television,1149,Rich,Professional,4,male,none,3,real estate,46,none,Own,2,skilled employee,1,None,Yes,1
+NA,9,existing credits paid back duly,furniture/equipment,1313,little,Master,1,male,none,4,car or other,20,none,Own,1,skilled employee,1,None,Yes,1
+little,18,critical account,repairs,1190,little,Unemployed,2,female,none,4, unknown / no property,55,none,For Free,3,unemployed,2,None,Yes,2
+NA,5,existing credits paid back duly,business,3448,little,Expert,1,male,none,4,real estate,74,none,Own,1,unskilled,1,None,Yes,1
+Moderate,24,existing credits paid back duly,Others,11328,little,Professional,2,male, co-applicant,3,car or other,29,bank,Own,2,qualified employee,1,Yes,Yes,2
+little,6,critical account,furniture/equipment,1872,little,Unemployed,4,male,none,4, unknown / no property,36,none,For Free,3,qualified employee,1,Yes,Yes,1
+NA,24,critical account,repairs,2058,little,Professional,4,male,none,2,real estate,33,none,Own,2,skilled employee,1,Yes,Yes,1
+little,9,existing credits paid back duly,furniture/equipment,2136,little,Professional,3,male,none,2,real estate,25,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,1484,NA,Professional,2,male,none,1,real estate,25,none,Own,1,skilled employee,1,Yes,Yes,2
+NA,6,existing credits paid back duly,repairs,660,Quite Rich,Expert,2,male,none,4,real estate,23,none,Rent,1,unskilled,1,None,Yes,1
+NA,24,critical account,car (new),1287,Rich,Master,4,female,none,4,real estate,37,none,Own,2,skilled employee,1,Yes,Yes,1
+little,42,critical account,repairs,3394,little,Unemployed,4,male, co-applicant,4,car or other,65,none,Own,2,unemployed,1,None,Yes,1
+Rich,12,all credits paid back duly,business,609,little,amateur,4,female,none,1,real estate,26,none,Own,1,unemployed,1,None,Yes,2
+NA,12,existing credits paid back duly,car (new),1884,little,Master,4,male,none,4,car or other,39,none,Own,1,qualified employee,1,Yes,Yes,1
+little,12,existing credits paid back duly,furniture/equipment,1620,little,Professional,2,female, co-applicant,3,building society savings agreement/ life insurance,30,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,20,delay in paying off in the past,Others,2629,little,Professional,2,male,none,3,car or other,29,bank,Own,2,skilled employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,education,719,little,Master,4,male,none,4,car or other,41,bank,Own,1,unskilled,2,None,Yes,2
+Moderate,48,critical account,furniture/equipment,5096,little,Professional,2,female,none,3,car or other,30,none,Own,1,qualified employee,1,Yes,Yes,2
+NA,9,critical account,education,1244,NA,Master,4,female,none,4,building society savings agreement/ life insurance,41,none,Rent,2,unskilled,1,None,Yes,1
+little,36,existing credits paid back duly,car (new),1842,little,amateur,4,female,none,4,car or other,34,none,Own,1,skilled employee,1,Yes,Yes,2
+Moderate,7,existing credits paid back duly,radio/television,2576,little,Professional,2,male,guarantor,2,real estate,35,none,Own,1,skilled employee,1,None,Yes,1
+Rich,12,existing credits paid back duly,furniture/equipment,1424,NA,Master,3,female,none,4,real estate,55,none,Own,1,qualified employee,1,Yes,Yes,1
+Moderate,15,delay in paying off in the past,repairs,1512,Rich,Professional,3,male,none,3,building society savings agreement/ life insurance,61,stores,Own,2,skilled employee,1,None,Yes,2
+NA,36,critical account,car (used),11054,NA,Professional,4,male,none,2,car or other,30,none,Own,1,qualified employee,1,Yes,Yes,1
+NA,6,existing credits paid back duly,radio/television,518,little,Professional,3,female,none,1,real estate,29,none,Own,1,skilled employee,1,None,Yes,1
+NA,12,no credits taken,furniture/equipment,2759,little,Master,2,male,none,4,building society savings agreement/ life insurance,34,none,Own,2,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,car (used),2670,little,Master,4,male,none,4,car or other,35,none,Own,1,qualified employee,1,Yes,Yes,1
+little,24,existing credits paid back duly,car (new),4817,little,Expert,2,male, co-applicant,3,building society savings agreement/ life insurance,31,none,Own,1,skilled employee,1,Yes,Yes,2
+NA,24,existing credits paid back duly,car (used),2679,little,amateur,4,female,none,1, unknown / no property,29,none,Own,1,qualified employee,1,Yes,Yes,1
+little,11,critical account,car (new),3905,little,Professional,2,male,none,2,real estate,36,none,Rent,2,skilled employee,2,None,Yes,1
+little,12,existing credits paid back duly,car (used),3386,little,Master,3,male,none,4, unknown / no property,35,none,For Free,1,skilled employee,1,Yes,Yes,2
+little,6,existing credits paid back duly,domestic appliances,343,little,amateur,4,female,none,1,real estate,27,none,Own,1,skilled employee,1,None,Yes,1
+NA,18,existing credits paid back duly,radio/television,4594,little,amateur,3,male,none,2,car or other,32,none,Own,1,skilled employee,1,Yes,Yes,1
+little,36,existing credits paid back duly,furniture/equipment,3620,little,Professional,1,male,guarantor,2,building society savings agreement/ life insurance,37,none,Own,1,skilled employee,2,None,Yes,1
+little,15,existing credits paid back duly,car (new),1721,little,amateur,2,male,none,3,real estate,36,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,furniture/equipment,3017,little,amateur,3,female,none,1,real estate,34,none,Rent,1,qualified employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,retraining,754,NA,Master,4,male,none,4,building society savings agreement/ life insurance,38,none,Own,2,skilled employee,1,None,Yes,1
+NA,18,existing credits paid back duly,business,1950,little,Expert,4,male,none,1,car or other,34,stores,Own,2,skilled employee,1,Yes,Yes,1
+little,24,existing credits paid back duly,car (used),2924,little,Professional,3,male,guarantor,4, unknown / no property,63,bank,Own,1,skilled employee,2,Yes,Yes,1
+little,24,delay in paying off in the past,radio/television,1659,little,amateur,4,female,none,2,car or other,29,none,Rent,1,unskilled,1,Yes,Yes,2
+NA,48,delay in paying off in the past,radio/television,7238,NA,Master,3,male,none,3,car or other,32,bank,Own,2,skilled employee,2,None,Yes,1
+NA,33,delay in paying off in the past,business,2764,little,Professional,2,female,none,2,car or other,26,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,24,delay in paying off in the past,car (used),4679,little,Expert,3,male,none,3,car or other,35,none,Own,2,unskilled,1,Yes,Yes,1
+Moderate,24,existing credits paid back duly,radio/television,3092,Moderate,amateur,3,male,none,2,car or other,22,none,Rent,1,skilled employee,1,Yes,Yes,2
+little,6,existing credits paid back duly,education,448,little,amateur,4,female,none,4,building society savings agreement/ life insurance,23,none,Own,1,skilled employee,1,None,Yes,2
+little,9,existing credits paid back duly,car (new),654,little,Professional,4,male,none,3,car or other,28,none,Own,1,unskilled,1,None,Yes,2
+NA,6,existing credits paid back duly,retraining,1238,NA,Unemployed,4,male,none,4,building society savings agreement/ life insurance,36,none,Own,1,qualified employee,2,Yes,Yes,1
+Moderate,18,critical account,radio/television,1245,little,Professional,4,male,none,2,car or other,33,none,Own,1,skilled employee,1,None,Yes,2
+little,18,no credits taken,furniture/equipment,3114,little,amateur,1,female,none,4,building society savings agreement/ life insurance,26,none,Rent,1,skilled employee,1,None,Yes,2
+NA,39,existing credits paid back duly,car (used),2569,Quite Rich,Professional,4,male,none,4,car or other,24,none,Own,1,skilled employee,1,None,Yes,1
+Rich,24,existing credits paid back duly,radio/television,5152,little,Expert,4,male,none,2,car or other,25,bank,Own,1,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,business,1037,Moderate,Expert,3,male,none,4,real estate,39,none,Own,1,unskilled,1,None,Yes,1
+little,15,critical account,furniture/equipment,1478,little,Master,4,male,none,4,car or other,44,none,Own,2,skilled employee,2,Yes,Yes,1
+Moderate,12,critical account,radio/television,3573,little,Professional,1,female,none,1,real estate,23,none,Own,1,unskilled,1,None,Yes,1
+Moderate,24,existing credits paid back duly,car (new),1201,little,amateur,4,male,none,1,building society savings agreement/ life insurance,26,none,Own,1,skilled employee,1,None,Yes,1
+little,30,existing credits paid back duly,furniture/equipment,3622,Rich,Master,4,female,none,4,building society savings agreement/ life insurance,57,none,Rent,2,skilled employee,1,Yes,Yes,1
+NA,15,delay in paying off in the past,furniture/equipment,960,Rich,Expert,3,female,none,2,building society savings agreement/ life insurance,30,none,Own,2,skilled employee,1,None,Yes,1
+NA,12,critical account,car (new),1163,Quite Rich,Professional,4,male,none,4,real estate,44,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,6,delay in paying off in the past,car (new),1209,little,Unemployed,4,male,none,4,building society savings agreement/ life insurance,47,none,Own,1,qualified employee,1,Yes,Yes,2
+NA,12,existing credits paid back duly,radio/television,3077,little,Professional,2,male,none,4,car or other,52,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,24,existing credits paid back duly,car (new),3757,little,Master,4,female, co-applicant,4, unknown / no property,62,none,For Free,1,skilled employee,1,Yes,Yes,1
+NA,10,existing credits paid back duly,car (new),1418,Moderate,Professional,3,male,none,2,real estate,35,none,Rent,1,unskilled,1,None,No,1
+NA,6,existing credits paid back duly,car (new),3518,little,Professional,2,male,guarantor,3,building society savings agreement/ life insurance,26,none,Rent,1,skilled employee,1,None,Yes,1
+NA,12,critical account,radio/television,1934,little,Master,2,male,none,2, unknown / no property,26,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,27,no credits taken,business,8318,little,Master,2,female,none,4, unknown / no property,42,none,For Free,2,qualified employee,1,Yes,Yes,2
+NA,6,critical account,radio/television,1237,Moderate,Professional,1,female,none,1,building society savings agreement/ life insurance,27,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,6,existing credits paid back duly,radio/television,368,NA,Master,4,male,none,4,building society savings agreement/ life insurance,38,none,Own,1,skilled employee,1,None,Yes,1
+little,12,critical account,car (new),2122,little,Professional,3,male,none,2,real estate,39,none,Rent,2,unskilled,2,None,No,1
+little,24,existing credits paid back duly,furniture/equipment,2996,NA,Professional,2,male,none,4,car or other,20,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,36,existing credits paid back duly,furniture/equipment,9034,Moderate,amateur,4,male, co-applicant,1, unknown / no property,29,none,Rent,1,qualified employee,1,Yes,Yes,2
+NA,24,critical account,furniture/equipment,1585,little,Expert,4,male,none,3,building society savings agreement/ life insurance,40,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,18,existing credits paid back duly,radio/television,1301,little,Master,4,male,guarantor,2,real estate,32,none,Own,1,unskilled,1,None,Yes,1
+Rich,6,critical account,car (new),1323,Moderate,Master,2,male,none,4,car or other,28,none,Own,2,skilled employee,2,Yes,Yes,1
+little,24,existing credits paid back duly,car (new),3123,little,amateur,4,female,none,1,building society savings agreement/ life insurance,27,none,Own,1,skilled employee,1,None,Yes,2
+little,36,existing credits paid back duly,car (used),5493,little,Master,2,male,none,4, unknown / no property,42,none,For Free,1,skilled employee,2,None,Yes,1
+Rich,9,existing credits paid back duly,radio/television,1126,Moderate,Master,2,male,none,4,real estate,49,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,24,critical account,radio/television,1216,Moderate,amateur,4,male,none,4, unknown / no property,38,bank,Own,2,skilled employee,2,None,Yes,2
+little,24,existing credits paid back duly,car (new),1207,little,amateur,4,female,none,4,building society savings agreement/ life insurance,24,none,Rent,1,skilled employee,1,None,Yes,2
+NA,10,existing credits paid back duly,car (new),1309,NA,Professional,4,male,guarantor,4,building society savings agreement/ life insurance,27,none,Own,1,unskilled,1,None,Yes,2
+Rich,15,critical account,car (used),2360,Quite Rich,Professional,2,male,none,2,car or other,36,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,15,all credits paid back duly,car (new),6850,Moderate,Unemployed,1,male,none,2,building society savings agreement/ life insurance,34,none,Own,1,qualified employee,2,Yes,Yes,2
+NA,24,existing credits paid back duly,radio/television,1413,little,Professional,4,male,none,2,building society savings agreement/ life insurance,28,none,Own,1,skilled employee,1,None,Yes,1
+NA,39,existing credits paid back duly,car (used),8588,Moderate,Master,4,male,none,2,car or other,45,none,Own,1,qualified employee,1,Yes,Yes,1
+little,12,existing credits paid back duly,car (new),759,little,Expert,4,male,none,2,real estate,26,none,Own,1,skilled employee,1,None,Yes,2
+NA,36,existing credits paid back duly,car (used),4686,little,Professional,2,male,none,2, unknown / no property,32,none,For Free,1,qualified employee,1,Yes,Yes,1
+Rich,15,existing credits paid back duly,business,2687,little,Expert,2,male,none,4,building society savings agreement/ life insurance,26,none,Rent,1,skilled employee,1,Yes,Yes,1
+Moderate,12,delay in paying off in the past,radio/television,585,little,Professional,4,male, co-applicant,4,real estate,20,none,Rent,2,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,car (new),2255,NA,amateur,4,male,none,1,building society savings agreement/ life insurance,54,none,Own,1,skilled employee,1,None,Yes,1
+little,6,critical account,car (new),609,little,Expert,4,female,none,3,building society savings agreement/ life insurance,37,none,Own,2,skilled employee,1,None,No,1
+little,6,critical account,car (new),1361,little,amateur,2,male,none,4,real estate,40,none,Own,1,unskilled,2,None,No,1
+NA,36,critical account,furniture/equipment,7127,little,amateur,2,female,none,4,building society savings agreement/ life insurance,23,none,Rent,2,skilled employee,1,Yes,Yes,2
+little,6,existing credits paid back duly,car (new),1203,Moderate,Master,3,male,none,2,building society savings agreement/ life insurance,43,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,6,critical account,radio/television,700,NA,Master,4,male,none,4, unknown / no property,36,none,For Free,2,skilled employee,1,None,Yes,1
+NA,24,critical account,repairs,5507,little,Master,3,male,none,4, unknown / no property,44,none,For Free,2,skilled employee,1,None,Yes,1
+little,18,existing credits paid back duly,radio/television,3190,little,Professional,2,female,none,2,real estate,24,none,Own,1,skilled employee,1,None,Yes,2
+little,48,no credits taken,furniture/equipment,7119,little,Professional,3,male,none,4, unknown / no property,53,none,For Free,2,skilled employee,2,None,Yes,2
+NA,24,existing credits paid back duly,car (used),3488,Moderate,Expert,3,female,none,4,car or other,23,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,18,existing credits paid back duly,radio/television,1113,little,Professional,4,female,guarantor,4,real estate,26,none,Own,1,unskilled,2,None,Yes,1
+Moderate,26,existing credits paid back duly,car (used),7966,little,amateur,2,male,none,3,car or other,30,none,Own,2,skilled employee,1,None,Yes,1
+NA,15,critical account,education,1532,Moderate,Professional,4,female,none,3,car or other,31,none,Own,1,skilled employee,1,None,Yes,1
+NA,4,critical account,radio/television,1503,little,Expert,2,male,none,1,real estate,42,none,Own,2,unskilled,2,None,Yes,1
+little,36,existing credits paid back duly,radio/television,2302,little,Professional,4,male,none,4,car or other,31,none,Rent,1,skilled employee,1,None,Yes,2
+little,6,existing credits paid back duly,car (new),662,little,amateur,3,male,none,4,real estate,41,none,Own,1,unskilled,2,Yes,Yes,1
+Moderate,36,existing credits paid back duly,education,2273,little,Expert,3,male,none,1,car or other,32,none,Own,2,skilled employee,2,None,Yes,1
+Moderate,15,existing credits paid back duly,car (new),2631,Moderate,Professional,2,female,none,4,car or other,28,none,Rent,2,skilled employee,1,Yes,Yes,2
+NA,12,delay in paying off in the past,car (used),1503,little,Professional,4,male,none,4,real estate,41,none,Rent,1,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,radio/television,1311,Moderate,Expert,4,male,none,3,building society savings agreement/ life insurance,26,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,24,existing credits paid back duly,radio/television,3105,NA,amateur,4,male,none,2,car or other,25,none,Own,2,skilled employee,1,None,Yes,1
+Rich,21,critical account,education,2319,little,amateur,2,male,none,1,car or other,33,none,Rent,1,skilled employee,1,None,Yes,2
+little,6,existing credits paid back duly,car (new),1374,NA,Unemployed,4,female,none,3,building society savings agreement/ life insurance,75,none,Own,1,qualified employee,1,Yes,Yes,1
+Moderate,18,critical account,furniture/equipment,3612,little,Master,3,female,none,4,building society savings agreement/ life insurance,37,none,Own,1,skilled employee,1,Yes,Yes,1
+little,48,existing credits paid back duly,car (new),7763,little,Master,4,male,none,4, unknown / no property,42,bank,For Free,1,qualified employee,1,None,Yes,2
+Rich,18,existing credits paid back duly,furniture/equipment,3049,little,amateur,1,female,none,1,building society savings agreement/ life insurance,45,stores,Own,1,unskilled,1,None,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,1534,little,amateur,1,male,none,1,real estate,23,none,Rent,1,skilled employee,1,None,Yes,2
+NA,24,delay in paying off in the past,car (new),2032,little,Master,4,male,none,4, unknown / no property,60,none,For Free,2,skilled employee,1,Yes,Yes,1
+little,30,existing credits paid back duly,furniture/equipment,6350,NA,Master,4,male,none,4,building society savings agreement/ life insurance,31,none,Own,1,skilled employee,1,None,Yes,2
+Rich,18,existing credits paid back duly,furniture/equipment,2864,little,Professional,2,male,none,1,real estate,34,none,Own,1,unskilled,2,None,Yes,2
+NA,12,critical account,car (new),1255,little,Master,4,male,none,4,real estate,61,none,Own,2,unskilled,1,None,Yes,1
+little,24,delay in paying off in the past,car (new),1333,little,Unemployed,4,male,none,2,real estate,43,none,For Free,2,skilled employee,2,None,Yes,2
+NA,24,critical account,car (new),2022,little,Professional,4,female,none,4,car or other,37,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,24,existing credits paid back duly,radio/television,1552,little,Expert,3,male,none,1,car or other,32,bank,Own,1,skilled employee,2,None,Yes,1
+little,12,all credits paid back duly,radio/television,626,little,Professional,4,female,none,4,real estate,24,bank,Own,1,unskilled,1,None,Yes,2
+NA,48,critical account,car (used),8858,NA,Expert,2,male,none,1, unknown / no property,35,none,For Free,2,skilled employee,1,Yes,Yes,1
+NA,12,critical account,repairs,996,NA,Expert,4,female,none,4,real estate,23,none,Own,2,skilled employee,1,None,Yes,1
+NA,6,all credits paid back duly,radio/television,1750,Quite Rich,Master,2,male,none,4,building society savings agreement/ life insurance,45,bank,Own,1,unskilled,2,None,Yes,1
+little,48,existing credits paid back duly,radio/television,6999,little,Expert,1,male,guarantor,1,real estate,34,none,Own,2,skilled employee,1,Yes,Yes,2
+Moderate,12,critical account,car (new),1995,Moderate,amateur,4,male,none,1,car or other,27,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,9,existing credits paid back duly,education,1199,little,Expert,4,female,none,4,building society savings agreement/ life insurance,67,none,Own,2,qualified employee,1,Yes,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,1331,little,amateur,2,male,none,1,car or other,22,stores,Own,1,skilled employee,1,None,Yes,2
+Moderate,18,no credits taken,car (new),2278,Moderate,amateur,3,female,none,3,car or other,28,none,Own,2,skilled employee,1,None,Yes,2
+NA,21,no credits taken,car (new),5003,NA,Professional,1,female,none,4,building society savings agreement/ life insurance,29,bank,Own,2,skilled employee,1,Yes,Yes,2
+little,24,all credits paid back duly,furniture/equipment,3552,little,Expert,3,male,none,4,car or other,27,bank,Own,1,skilled employee,1,None,Yes,2
+Moderate,18,critical account,furniture/equipment,1928,little,amateur,2,male,none,2,real estate,31,none,Own,2,unskilled,1,None,Yes,2
+little,24,existing credits paid back duly,car (used),2964,NA,Master,4,male,none,4, unknown / no property,49,bank,For Free,1,skilled employee,2,Yes,Yes,1
+little,24,all credits paid back duly,radio/television,1546,little,Expert,4,male,guarantor,4,car or other,24,bank,Rent,1,unskilled,1,None,Yes,2
+Rich,6,delay in paying off in the past,radio/television,683,little,amateur,2,female,none,1,building society savings agreement/ life insurance,29,bank,Own,1,skilled employee,1,None,Yes,1
+Moderate,36,existing credits paid back duly,car (new),12389,NA,Professional,1,male,none,4, unknown / no property,37,none,For Free,1,skilled employee,1,Yes,Yes,2
+Moderate,24,delay in paying off in the past,business,4712,NA,Professional,4,male,none,2,building society savings agreement/ life insurance,37,bank,Own,2,qualified employee,1,Yes,Yes,1
+Moderate,24,delay in paying off in the past,radio/television,1553,Moderate,Expert,3,female,none,2,building society savings agreement/ life insurance,23,none,Rent,2,skilled employee,1,Yes,Yes,1
+little,12,existing credits paid back duly,car (new),1372,little,Expert,2,male,none,3,car or other,36,none,Own,1,skilled employee,1,None,Yes,2
+NA,24,critical account,radio/television,2578,Rich,Master,2,male,none,2,car or other,34,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,48,existing credits paid back duly,radio/television,3979,NA,Expert,4,male,none,1,car or other,41,none,Own,2,skilled employee,2,Yes,Yes,1
+little,48,existing credits paid back duly,radio/television,6758,little,Professional,3,female,none,2,car or other,31,none,Own,1,skilled employee,1,Yes,Yes,2
+little,24,existing credits paid back duly,furniture/equipment,3234,little,amateur,4,female,none,4,real estate,23,none,Rent,1,unskilled,1,Yes,Yes,2
+NA,30,critical account,radio/television,5954,little,Expert,3,male, co-applicant,2,car or other,38,none,Own,1,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,car (used),5433,NA,Unemployed,2,female,none,4,building society savings agreement/ life insurance,26,none,Rent,1,qualified employee,1,Yes,Yes,1
+little,15,existing credits paid back duly,business,806,little,Professional,4,female,none,4,building society savings agreement/ life insurance,22,none,Own,1,unskilled,1,None,Yes,1
+Moderate,9,existing credits paid back duly,radio/television,1082,little,Master,4,male,none,4,car or other,27,none,Own,2,unskilled,1,None,Yes,1
+NA,15,critical account,furniture/equipment,2788,little,Expert,2,female, co-applicant,3,car or other,24,bank,Own,2,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,2930,little,Expert,2,female,none,1,real estate,27,none,Own,1,skilled employee,1,None,Yes,1
+NA,24,critical account,education,1927,NA,Professional,3,female,none,2,car or other,33,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,36,critical account,car (new),2820,little,amateur,4,male,none,4,car or other,27,none,Own,2,skilled employee,1,None,Yes,2
+NA,24,existing credits paid back duly,retraining,937,little,amateur,4,male,none,3,car or other,27,none,Own,2,unskilled,1,None,Yes,1
+Moderate,18,critical account,car (new),1056,little,Master,3,male,guarantor,3,real estate,30,bank,Own,2,skilled employee,1,None,Yes,2
+Moderate,12,critical account,car (new),3124,little,amateur,1,male,none,3,real estate,49,bank,Own,2,unskilled,2,None,Yes,1
+NA,9,existing credits paid back duly,furniture/equipment,1388,little,Professional,4,female,none,2,real estate,26,none,Rent,1,skilled employee,1,None,Yes,1
+Moderate,36,existing credits paid back duly,repairs,2384,little,amateur,4,male,none,1, unknown / no property,33,none,Rent,1,unskilled,1,None,Yes,2
+NA,12,existing credits paid back duly,car (new),2133,NA,Master,4,female,none,4, unknown / no property,52,none,For Free,1,qualified employee,1,Yes,Yes,1
+little,18,existing credits paid back duly,furniture/equipment,2039,little,Professional,1,female,none,4,real estate,20,bank,Rent,1,skilled employee,1,None,Yes,2
+little,9,critical account,car (new),2799,little,Professional,2,male,none,2,real estate,36,none,Rent,2,skilled employee,2,None,Yes,1
+little,12,existing credits paid back duly,furniture/equipment,1289,little,Professional,4,male,guarantor,1,building society savings agreement/ life insurance,21,none,Own,1,unskilled,1,None,Yes,1
+little,18,existing credits paid back duly,domestic appliances,1217,little,Professional,4,male,none,3,real estate,47,none,Own,1,unskilled,1,Yes,Yes,2
+little,12,critical account,furniture/equipment,2246,little,Master,3,male,none,3,building society savings agreement/ life insurance,60,none,Own,2,skilled employee,1,None,Yes,2
+little,12,critical account,radio/television,385,little,Expert,4,female,none,3,real estate,58,none,Own,4,unskilled,1,Yes,Yes,1
+Moderate,24,delay in paying off in the past,car (new),1965,NA,Professional,4,female,none,4,car or other,42,none,Rent,2,skilled employee,1,Yes,Yes,1
+NA,21,existing credits paid back duly,business,1572,Rich,Master,4,female,none,4,real estate,36,bank,Own,1,unskilled,1,None,Yes,1
+Moderate,24,existing credits paid back duly,car (new),2718,little,Professional,3,female,none,4,building society savings agreement/ life insurance,20,none,Rent,1,unskilled,1,Yes,Yes,2
+little,24,all credits paid back duly,Others,1358,NA,Master,4,male,none,3,car or other,40,stores,Own,1,qualified employee,1,Yes,Yes,2
+Moderate,6,all credits paid back duly,car (new),931,Moderate,amateur,1,female,none,1,building society savings agreement/ life insurance,32,stores,Own,1,unskilled,1,None,Yes,2
+little,24,existing credits paid back duly,car (new),1442,little,Expert,4,female,none,4,car or other,23,none,Rent,2,skilled employee,1,None,Yes,2
+Moderate,24,no credits taken,business,4241,little,Professional,1,male,none,4,real estate,36,none,Own,3,unskilled,1,Yes,Yes,2
+NA,18,critical account,car (new),2775,little,Expert,2,male,none,2,building society savings agreement/ life insurance,31,bank,Own,2,skilled employee,1,None,Yes,2
+NA,24,delay in paying off in the past,business,3863,little,Professional,1,male,none,2, unknown / no property,32,none,For Free,1,skilled employee,1,None,Yes,1
+Moderate,7,existing credits paid back duly,radio/television,2329,little,amateur,1,female,guarantor,1,real estate,45,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,9,existing credits paid back duly,furniture/equipment,918,little,Professional,4,female,none,1,building society savings agreement/ life insurance,30,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,24,all credits paid back duly,education,1837,little,Expert,4,female,none,4, unknown / no property,34,bank,For Free,1,unskilled,1,None,Yes,2
+NA,36,existing credits paid back duly,furniture/equipment,3349,little,Professional,4,female,none,2,car or other,28,none,Own,1,qualified employee,1,Yes,Yes,2
+Rich,10,existing credits paid back duly,furniture/equipment,1275,little,amateur,4,female,none,2,building society savings agreement/ life insurance,23,none,Own,1,skilled employee,1,None,Yes,1
+little,24,all credits paid back duly,furniture/equipment,2828,Quite Rich,Professional,4,male,none,4,real estate,22,stores,Own,1,skilled employee,1,Yes,Yes,1
+NA,24,critical account,business,4526,little,Professional,3,male,none,2,real estate,74,none,Own,1,qualified employee,1,Yes,Yes,1
+Moderate,36,existing credits paid back duly,radio/television,2671,Moderate,Professional,4,female, co-applicant,4, unknown / no property,50,none,For Free,1,skilled employee,1,None,Yes,2
+NA,18,existing credits paid back duly,radio/television,2051,little,amateur,4,male,none,1,real estate,33,none,Own,1,skilled employee,1,None,Yes,1
+NA,15,existing credits paid back duly,car (used),1300,NA,Master,4,male,none,4, unknown / no property,45,bank,For Free,1,skilled employee,2,None,Yes,1
+little,12,existing credits paid back duly,domestic appliances,741,Moderate,Unemployed,4,female,none,3,building society savings agreement/ life insurance,22,none,Own,1,skilled employee,1,None,Yes,2
+Rich,10,existing credits paid back duly,car (new),1240,Moderate,Master,1,female,none,4, unknown / no property,48,none,For Free,1,unskilled,2,None,Yes,2
+little,21,existing credits paid back duly,radio/television,3357,Rich,amateur,4,female,none,2,car or other,29,bank,Own,1,skilled employee,1,None,Yes,1
+little,24,all credits paid back duly,car (used),3632,little,Professional,1,female,guarantor,4,car or other,22,bank,Rent,1,skilled employee,1,None,No,1
+NA,18,delay in paying off in the past,furniture/equipment,1808,little,Expert,4,female,none,1,real estate,22,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,48,no credits taken,business,12204,NA,Professional,2,male,none,2,car or other,48,bank,Own,1,qualified employee,1,Yes,Yes,1
+Moderate,60,delay in paying off in the past,radio/television,9157,NA,Professional,2,male,none,2, unknown / no property,27,none,For Free,1,qualified employee,1,None,Yes,1
+little,6,critical account,car (new),3676,little,Professional,1,male,none,3,real estate,37,none,Rent,3,skilled employee,2,None,Yes,1
+Moderate,30,existing credits paid back duly,furniture/equipment,3441,Moderate,Professional,2,female, co-applicant,4,car or other,21,none,Rent,1,skilled employee,1,None,Yes,2
+NA,12,existing credits paid back duly,car (new),640,little,Professional,4,male,none,2,real estate,49,none,Own,1,unskilled,1,None,Yes,1
+Moderate,21,critical account,business,3652,little,Expert,2,male,none,3,building society savings agreement/ life insurance,27,none,Own,2,skilled employee,1,None,Yes,1
+NA,18,critical account,car (new),1530,little,Professional,3,male,none,2,building society savings agreement/ life insurance,32,bank,Own,2,skilled employee,1,None,Yes,2
+NA,48,existing credits paid back duly,business,3914,NA,Professional,4,male,none,2,real estate,38,bank,Own,1,skilled employee,1,None,Yes,2
+little,12,existing credits paid back duly,furniture/equipment,1858,little,amateur,4,female,none,1,car or other,22,none,Rent,1,skilled employee,1,None,Yes,1
+little,18,existing credits paid back duly,radio/television,2600,little,Professional,4,male,none,4, unknown / no property,65,none,For Free,2,skilled employee,1,None,Yes,2
+NA,15,existing credits paid back duly,radio/television,1979,NA,Master,4,male,none,2,car or other,35,none,Own,1,skilled employee,1,None,Yes,1
+Rich,6,existing credits paid back duly,furniture/equipment,2116,little,Professional,2,male,none,2,real estate,41,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,9,all credits paid back duly,car (new),1437,Moderate,Expert,2,male,none,3, unknown / no property,29,none,Own,1,skilled employee,1,None,Yes,2
+NA,42,critical account,furniture/equipment,4042,Quite Rich,Professional,4,male,none,4,real estate,36,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,9,existing credits paid back duly,education,3832,NA,Master,1,male,none,4,real estate,64,none,Own,1,unskilled,1,None,Yes,1
+little,24,existing credits paid back duly,radio/television,3660,little,Professional,2,female,none,4,car or other,28,none,Own,1,skilled employee,1,None,Yes,1
+little,18,all credits paid back duly,furniture/equipment,1553,little,Professional,4,male,none,3,car or other,44,bank,Own,1,skilled employee,1,None,Yes,2
+Moderate,15,existing credits paid back duly,radio/television,1444,NA,amateur,4,male,none,1,building society savings agreement/ life insurance,23,none,Own,1,skilled employee,1,None,Yes,1
+NA,9,existing credits paid back duly,furniture/equipment,1980,little,amateur,2,female, co-applicant,2,car or other,19,none,Rent,2,skilled employee,1,None,Yes,2
+Moderate,24,existing credits paid back duly,car (new),1355,little,amateur,3,female,none,4,car or other,25,none,Own,1,unskilled,1,Yes,Yes,2
+NA,12,existing credits paid back duly,education,1393,little,Master,4,male,none,4,building society savings agreement/ life insurance,47,bank,Own,3,skilled employee,2,Yes,Yes,1
+NA,24,existing credits paid back duly,radio/television,1376,Quite Rich,Expert,4,female,none,1,car or other,28,none,Own,1,skilled employee,1,None,Yes,1
+NA,60,delay in paying off in the past,radio/television,15653,little,Expert,2,male,none,4,car or other,21,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,radio/television,1493,little,amateur,4,female,none,3,car or other,34,none,Own,1,skilled employee,2,None,Yes,1
+little,42,delay in paying off in the past,radio/television,4370,little,Expert,3,male,none,2,building society savings agreement/ life insurance,26,bank,Own,2,skilled employee,2,Yes,Yes,2
+little,18,existing credits paid back duly,education,750,little,Unemployed,4,female,none,1,real estate,27,none,Own,1,unemployed,1,None,Yes,2
+Moderate,15,existing credits paid back duly,repairs,1308,little,Master,4,male,none,4,car or other,38,none,Own,2,unskilled,1,None,Yes,1
+NA,15,existing credits paid back duly,education,4623,Moderate,Professional,3,male,none,2,building society savings agreement/ life insurance,40,none,Own,1,qualified employee,1,Yes,Yes,2
+NA,24,critical account,radio/television,1851,little,Expert,4,male,guarantor,2,car or other,33,none,Own,2,skilled employee,1,Yes,Yes,1
+little,18,critical account,radio/television,1880,little,Expert,4,male,none,1,building society savings agreement/ life insurance,32,none,Own,2,qualified employee,1,Yes,Yes,1
+NA,36,delay in paying off in the past,business,7980,NA,amateur,4,male,none,4,car or other,27,none,Rent,2,skilled employee,1,Yes,Yes,2
+little,30,no credits taken,furniture/equipment,4583,little,Professional,2,male,guarantor,2,real estate,32,none,Own,2,skilled employee,1,None,Yes,1
+NA,12,existing credits paid back duly,car (new),1386,Quite Rich,Professional,2,female,none,2,building society savings agreement/ life insurance,26,none,Own,1,skilled employee,1,None,Yes,2
+Rich,24,existing credits paid back duly,car (new),947,little,Expert,4,male,none,3, unknown / no property,38,bank,For Free,1,skilled employee,2,None,Yes,2
+little,12,existing credits paid back duly,education,684,little,Professional,4,male,none,4,car or other,40,none,Rent,1,unskilled,2,None,Yes,2
+little,48,existing credits paid back duly,education,7476,little,Expert,4,male,none,1, unknown / no property,50,none,For Free,1,qualified employee,1,Yes,Yes,1
+Moderate,12,existing credits paid back duly,furniture/equipment,1922,little,Professional,4,male,none,2,building society savings agreement/ life insurance,37,none,Own,1,unskilled,1,None,Yes,2
+little,24,existing credits paid back duly,car (new),2303,little,Master,4,male, co-applicant,1,real estate,45,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,36,delay in paying off in the past,car (new),8086,Moderate,Master,2,male,none,4,car or other,42,none,Own,4,qualified employee,1,Yes,Yes,2
+NA,24,critical account,car (used),2346,little,Expert,4,male,none,3,car or other,35,none,Own,2,skilled employee,1,Yes,Yes,1
+little,14,existing credits paid back duly,car (new),3973,little,Unemployed,1,male,none,4, unknown / no property,22,none,For Free,1,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,car (new),888,little,Master,4,male,none,4,car or other,41,bank,Own,1,unskilled,2,None,Yes,2
+NA,48,existing credits paid back duly,radio/television,10222,NA,Expert,4,male,none,3,car or other,37,stores,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,30,no credits taken,business,4221,little,Professional,2,female,none,1,car or other,28,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,18,critical account,furniture/equipment,6361,little,Master,2,male,none,1, unknown / no property,41,none,Own,1,skilled employee,1,Yes,Yes,1
+Rich,12,existing credits paid back duly,radio/television,1297,little,Professional,3,male,none,4,real estate,23,none,Rent,1,skilled employee,1,None,Yes,1
+little,12,existing credits paid back duly,car (new),900,NA,Professional,4,male,none,2,car or other,23,none,Own,1,skilled employee,1,None,Yes,2
+NA,21,existing credits paid back duly,furniture/equipment,2241,little,Master,4,male,none,2,real estate,50,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,6,delay in paying off in the past,furniture/equipment,1050,little,Unemployed,4,male,none,1,building society savings agreement/ life insurance,35,stores,Own,2,qualified employee,1,Yes,Yes,1
+Rich,6,critical account,education,1047,little,Professional,2,female,none,4,building society savings agreement/ life insurance,50,none,Own,1,unskilled,1,None,Yes,1
+NA,24,critical account,Others,6314,little,Unemployed,4,male, co-applicant,2, unknown / no property,27,bank,Own,2,qualified employee,1,Yes,Yes,1
+Moderate,30,all credits paid back duly,furniture/equipment,3496,Rich,Professional,4,male,none,2,car or other,34,stores,Own,1,skilled employee,2,Yes,Yes,1
+NA,48,all credits paid back duly,business,3609,little,Professional,1,female,none,1,real estate,27,stores,Own,1,skilled employee,1,None,Yes,1
+little,12,critical account,car (new),4843,little,Master,3,male, co-applicant,4,building society savings agreement/ life insurance,43,none,Rent,2,skilled employee,1,Yes,Yes,2
+Rich,30,critical account,radio/television,3017,little,Master,4,male,none,4,building society savings agreement/ life insurance,47,none,Own,1,skilled employee,1,None,Yes,1
+NA,24,critical account,business,4139,Moderate,Professional,3,male,none,3,building society savings agreement/ life insurance,27,none,Own,2,unskilled,1,Yes,Yes,1
+NA,36,existing credits paid back duly,business,5742,Moderate,Expert,2,male,none,2,car or other,31,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,60,existing credits paid back duly,car (new),10366,little,Master,2,male,none,4,building society savings agreement/ life insurance,42,none,Own,1,qualified employee,1,Yes,Yes,1
+NA,6,critical account,car (new),2080,Quite Rich,Professional,1,male,none,2,car or other,24,none,Own,1,skilled employee,1,None,Yes,1
+NA,21,delay in paying off in the past,business,2580,Quite Rich,amateur,4,male,none,2,real estate,41,bank,Own,1,unskilled,2,None,Yes,2
+NA,30,critical account,radio/television,4530,little,Expert,4,female,none,4,car or other,26,none,Rent,1,qualified employee,1,Yes,Yes,1
+NA,24,critical account,furniture/equipment,5150,little,Master,4,male,none,4,car or other,33,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,72,existing credits paid back duly,radio/television,5595,Moderate,Professional,2,male,none,2,car or other,24,none,Own,1,skilled employee,1,None,Yes,2
+little,24,existing credits paid back duly,radio/television,2384,little,Master,4,male,none,4,real estate,64,bank,Rent,1,unskilled,1,None,Yes,1
+NA,18,existing credits paid back duly,radio/television,1453,little,amateur,3,female,none,1,real estate,26,none,Own,1,skilled employee,1,None,Yes,1
+NA,6,existing credits paid back duly,education,1538,little,amateur,1,female,none,2, unknown / no property,56,none,Own,1,skilled employee,1,None,Yes,1
+NA,12,existing credits paid back duly,radio/television,2279,NA,Professional,4,male,none,4, unknown / no property,37,none,For Free,1,skilled employee,1,Yes,Yes,1
+NA,15,delay in paying off in the past,radio/television,1478,little,Professional,4,male,none,3,real estate,33,bank,Own,2,skilled employee,1,None,Yes,1
+NA,24,critical account,radio/television,5103,little,amateur,3,male,none,3, unknown / no property,47,none,For Free,3,skilled employee,1,Yes,Yes,1
+Moderate,36,delay in paying off in the past,business,9857,Moderate,Expert,1,male,none,3,building society savings agreement/ life insurance,31,none,Own,2,unskilled,2,Yes,Yes,1
+NA,60,existing credits paid back duly,car (new),6527,NA,Professional,4,male,none,4, unknown / no property,34,none,For Free,1,skilled employee,2,Yes,Yes,1
+Rich,10,critical account,radio/television,1347,NA,Expert,4,male,none,2,building society savings agreement/ life insurance,27,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,36,delay in paying off in the past,car (new),2862,Moderate,Master,4,male,none,3, unknown / no property,30,none,For Free,1,skilled employee,1,None,Yes,1
+NA,9,existing credits paid back duly,radio/television,2753,Moderate,Master,3,male, co-applicant,4,car or other,35,none,Own,1,skilled employee,1,Yes,Yes,1
+little,12,existing credits paid back duly,car (new),3651,Rich,Professional,1,male,none,3,building society savings agreement/ life insurance,31,none,Own,1,skilled employee,2,None,Yes,1
+little,15,critical account,furniture/equipment,975,little,Professional,2,male,none,3,building society savings agreement/ life insurance,25,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,15,existing credits paid back duly,repairs,2631,Moderate,Professional,3,female,none,2,real estate,25,none,Own,1,unskilled,1,None,Yes,1
+Moderate,24,existing credits paid back duly,radio/television,2896,Moderate,amateur,2,male,none,1,car or other,29,none,Own,1,skilled employee,1,None,Yes,1
+little,6,critical account,car (new),4716,NA,amateur,1,male,none,3,real estate,44,none,Own,2,unskilled,2,None,Yes,1
+NA,24,existing credits paid back duly,radio/television,2284,little,Expert,4,male,none,2,car or other,28,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,6,existing credits paid back duly,car (used),1236,Quite Rich,Professional,2,male,none,4,building society savings agreement/ life insurance,50,none,Rent,1,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,1103,little,Expert,4,male,guarantor,3,real estate,29,none,Own,2,skilled employee,1,None,No,1
+NA,12,critical account,car (new),926,little,Unemployed,1,female,none,2,building society savings agreement/ life insurance,38,none,Own,1,unemployed,1,None,Yes,1
+NA,18,critical account,radio/television,1800,little,Professional,4,male,none,2,car or other,24,none,Own,2,skilled employee,1,None,Yes,1
+Rich,15,existing credits paid back duly,education,1905,little,Master,4,male,none,4,car or other,40,none,Rent,1,qualified employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,furniture/equipment,1123,Quite Rich,Professional,4,female,none,4,car or other,29,none,Rent,1,unskilled,1,None,Yes,2
+little,48,critical account,car (used),6331,little,Master,4,male,none,4, unknown / no property,46,none,For Free,2,skilled employee,1,Yes,Yes,2
+Rich,24,existing credits paid back duly,radio/television,1377,Moderate,Master,4,female,none,2, unknown / no property,47,none,For Free,1,skilled employee,1,Yes,Yes,1
+Moderate,30,delay in paying off in the past,business,2503,Moderate,Master,4,male,none,2,building society savings agreement/ life insurance,41,stores,Own,2,skilled employee,1,None,Yes,1
+Moderate,27,existing credits paid back duly,business,2528,little,amateur,4,female,none,1,building society savings agreement/ life insurance,32,none,Own,1,skilled employee,2,Yes,Yes,1
+NA,15,existing credits paid back duly,car (new),5324,Quite Rich,Master,1,female,none,4, unknown / no property,35,none,For Free,1,skilled employee,1,None,Yes,1
+Moderate,48,existing credits paid back duly,car (new),6560,Moderate,Expert,3,male,none,2,building society savings agreement/ life insurance,24,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,12,no credits taken,furniture/equipment,2969,little,amateur,4,female,none,3,building society savings agreement/ life insurance,25,none,Rent,2,skilled employee,1,None,Yes,2
+Moderate,9,existing credits paid back duly,radio/television,1206,little,Master,4,female,none,4,real estate,25,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,9,existing credits paid back duly,radio/television,2118,little,Professional,2,male,none,2,real estate,37,none,Own,1,unskilled,2,None,Yes,1
+NA,18,critical account,radio/television,629,Quite Rich,Master,4,male,none,3,building society savings agreement/ life insurance,32,bank,Own,2,qualified employee,1,Yes,Yes,1
+little,6,all credits paid back duly,education,1198,little,Master,4,female,none,4, unknown / no property,35,none,For Free,1,skilled employee,1,None,Yes,2
+NA,21,existing credits paid back duly,car (used),2476,NA,Master,4,male,none,4,real estate,46,none,Own,1,qualified employee,1,Yes,Yes,1
+little,9,critical account,radio/television,1138,little,Professional,4,male,none,4,real estate,25,none,Own,2,unskilled,1,None,Yes,1
+Moderate,60,existing credits paid back duly,car (new),14027,little,Expert,4,male,none,2, unknown / no property,27,none,Own,1,qualified employee,1,Yes,Yes,2
+NA,30,critical account,car (used),7596,NA,Master,1,male,none,4,car or other,63,none,Own,2,skilled employee,1,None,Yes,1
+NA,30,critical account,radio/television,3077,NA,Master,3,male,none,2,car or other,40,none,Own,2,skilled employee,2,Yes,Yes,1
+NA,18,existing credits paid back duly,radio/television,1505,little,Professional,4,male,none,2, unknown / no property,32,none,For Free,1,qualified employee,1,Yes,Yes,1
+Rich,24,critical account,radio/television,3148,NA,Professional,3,male,none,2,car or other,31,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,20,no credits taken,car (used),6148,Moderate,Master,3,male,none,4,car or other,31,bank,Own,2,skilled employee,1,Yes,Yes,1
+Rich,9,no credits taken,radio/television,1337,little,amateur,4,male,none,2,car or other,34,none,Own,2,qualified employee,1,Yes,Yes,2
+Moderate,6,all credits paid back duly,education,433,Rich,amateur,4,female,none,2,building society savings agreement/ life insurance,24,bank,Rent,1,skilled employee,2,None,Yes,2
+little,12,existing credits paid back duly,car (new),1228,little,Professional,4,female,none,2,real estate,24,none,Own,1,unskilled,1,None,Yes,2
+Moderate,9,existing credits paid back duly,radio/television,790,Quite Rich,Professional,4,female,none,3,real estate,66,none,Own,1,unskilled,1,None,Yes,1
+NA,27,existing credits paid back duly,car (new),2570,little,Professional,3,female,none,3,real estate,21,none,Rent,1,skilled employee,1,None,Yes,2
+NA,6,critical account,car (new),250,Rich,Professional,2,female,none,2,real estate,41,bank,Own,2,unskilled,1,None,Yes,1
+NA,15,critical account,radio/television,1316,Quite Rich,Professional,2,male,none,2,building society savings agreement/ life insurance,47,none,Own,2,unskilled,1,None,Yes,1
+little,18,existing credits paid back duly,radio/television,1882,little,Professional,4,female,none,4,car or other,25,bank,Rent,2,skilled employee,1,None,Yes,2
+Moderate,48,all credits paid back duly,business,6416,little,Master,4,female,none,3, unknown / no property,59,none,Rent,1,skilled employee,1,None,Yes,2
+Rich,24,critical account,business,1275,Rich,Professional,2,male,none,4,real estate,36,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,24,delay in paying off in the past,radio/television,6403,little,amateur,1,male,none,2,car or other,33,none,Own,1,skilled employee,1,None,Yes,1
+little,24,existing credits paid back duly,radio/television,1987,little,Professional,2,male,none,4,real estate,21,none,Rent,1,unskilled,2,None,Yes,2
+Moderate,8,existing credits paid back duly,radio/television,760,little,Expert,4,female,guarantor,2,real estate,44,none,Own,1,unskilled,1,None,Yes,1
+NA,24,existing credits paid back duly,car (used),2603,Rich,Professional,2,female,none,4,car or other,28,none,Rent,1,skilled employee,1,Yes,Yes,1
+NA,4,critical account,car (new),3380,little,Expert,1,female,none,1,real estate,37,none,Own,1,skilled employee,2,None,Yes,1
+Moderate,36,all credits paid back duly,domestic appliances,3990,NA,amateur,3,female,none,2, unknown / no property,29,bank,Own,1,unemployed,1,None,Yes,1
+Moderate,24,existing credits paid back duly,car (used),11560,little,Professional,1,female,none,4,car or other,23,none,Rent,2,qualified employee,1,None,Yes,2
+little,18,existing credits paid back duly,car (new),4380,Moderate,Professional,3,male,none,4,car or other,35,none,Own,1,unskilled,2,Yes,Yes,1
+NA,6,critical account,car (new),6761,little,Expert,1,male,none,3, unknown / no property,45,none,Own,2,qualified employee,2,Yes,Yes,1
+Moderate,30,no credits taken,business,4280,Moderate,Professional,4,female,none,4,car or other,26,none,Rent,2,unskilled,1,None,Yes,2
+little,24,all credits paid back duly,car (new),2325,Moderate,Expert,2,male,none,3,car or other,32,bank,Own,1,skilled employee,1,None,Yes,1
+Moderate,10,all credits paid back duly,radio/television,1048,little,Professional,4,male,none,4,real estate,23,stores,Own,1,unskilled,1,None,Yes,1
+NA,21,existing credits paid back duly,radio/television,3160,NA,Master,4,male,none,3,building society savings agreement/ life insurance,41,none,Own,1,skilled employee,1,Yes,Yes,1
+little,24,all credits paid back duly,furniture/equipment,2483,Quite Rich,Professional,4,male,none,4,real estate,22,stores,Own,1,skilled employee,1,Yes,Yes,1
+little,39,critical account,furniture/equipment,14179,NA,Expert,4,male,none,4,building society savings agreement/ life insurance,30,none,Own,2,qualified employee,1,Yes,Yes,1
+little,13,critical account,business,1797,little,amateur,3,male,none,1,building society savings agreement/ life insurance,28,bank,Own,2,unskilled,1,None,Yes,1
+little,15,existing credits paid back duly,car (new),2511,little,Unemployed,1,female,none,4,car or other,23,none,Rent,1,skilled employee,1,None,Yes,1
+little,12,existing credits paid back duly,car (new),1274,little,amateur,3,female,none,1,real estate,37,none,Own,1,unskilled,1,None,Yes,2
+NA,21,existing credits paid back duly,car (used),5248,NA,Professional,1,male,none,3,car or other,26,none,Own,1,skilled employee,1,None,Yes,1
+NA,15,existing credits paid back duly,car (used),3029,little,Expert,2,male,none,2,car or other,33,none,Own,1,skilled employee,1,None,Yes,1
+little,6,existing credits paid back duly,furniture/equipment,428,little,Master,2,female,none,1,building society savings agreement/ life insurance,49,bank,Own,1,skilled employee,1,Yes,Yes,1
+little,18,existing credits paid back duly,car (new),976,little,amateur,1,female,none,2,car or other,23,none,Own,1,unskilled,1,None,Yes,2
+Moderate,12,existing credits paid back duly,business,841,Moderate,Expert,2,female,none,4,real estate,23,none,Rent,1,unskilled,1,None,Yes,1
+NA,30,critical account,radio/television,5771,little,Expert,4,female,none,2,car or other,25,none,Own,2,skilled employee,1,None,Yes,1
+NA,12,delay in paying off in the past,repairs,1555,Rich,Master,4,male,none,4, unknown / no property,55,none,For Free,2,skilled employee,2,None,Yes,2
+little,24,existing credits paid back duly,car (new),1285,NA,Expert,4,female,none,4, unknown / no property,32,none,Rent,1,skilled employee,1,None,Yes,2
+Rich,6,critical account,car (new),1299,little,Professional,1,male,none,1,real estate,74,none,Own,3,unemployed,2,None,No,1
+Rich,15,critical account,radio/television,1271,NA,Professional,3,male,none,4, unknown / no property,39,none,For Free,2,skilled employee,1,Yes,Yes,2
+NA,24,existing credits paid back duly,car (new),1393,little,Professional,2,male,guarantor,2,real estate,31,none,Own,1,skilled employee,1,Yes,Yes,1
+little,12,critical account,car (new),691,little,Master,4,male,none,3,building society savings agreement/ life insurance,35,none,Own,2,skilled employee,1,None,Yes,2
+NA,15,critical account,car (new),5045,NA,Master,1,female,none,4,car or other,59,none,Own,1,skilled employee,1,Yes,Yes,1
+little,18,critical account,furniture/equipment,2124,little,Professional,4,female,none,4,real estate,24,none,Rent,2,skilled employee,1,None,Yes,2
+little,12,existing credits paid back duly,radio/television,2214,little,Professional,4,male,none,3,building society savings agreement/ life insurance,24,none,Own,1,unskilled,1,None,Yes,1
+NA,21,critical account,car (new),12680,NA,Master,4,male,none,4, unknown / no property,30,none,For Free,1,qualified employee,1,Yes,Yes,2
+NA,24,critical account,car (new),2463,Moderate,Expert,4,male,none,3,building society savings agreement/ life insurance,27,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,12,existing credits paid back duly,radio/television,1155,little,Master,3,male,guarantor,3,real estate,40,bank,Own,2,unskilled,1,None,Yes,1
+little,30,existing credits paid back duly,furniture/equipment,3108,little,amateur,2,male,none,4,building society savings agreement/ life insurance,31,none,Own,1,unskilled,1,None,Yes,2
+NA,10,existing credits paid back duly,car (used),2901,NA,amateur,1,female,none,4,real estate,31,none,Rent,1,skilled employee,1,None,Yes,1
+Moderate,12,critical account,furniture/equipment,3617,little,Master,1,male,none,4,car or other,28,none,Rent,3,skilled employee,1,Yes,Yes,1
+NA,12,critical account,radio/television,1655,little,Master,2,male,none,4,real estate,63,none,Own,2,unskilled,1,Yes,Yes,1
+little,24,existing credits paid back duly,car (used),2812,NA,Master,2,female,none,4,real estate,26,none,Rent,1,skilled employee,1,None,Yes,1
+little,36,critical account,education,8065,little,Professional,3,female,none,2, unknown / no property,25,none,Own,2,qualified employee,1,Yes,Yes,2
+NA,21,critical account,car (used),3275,little,Master,1,male,none,4,car or other,36,none,Own,1,qualified employee,1,Yes,Yes,1
+NA,24,critical account,radio/television,2223,Moderate,Master,4,male,none,4,building society savings agreement/ life insurance,52,bank,Own,2,skilled employee,1,None,Yes,1
+Rich,12,critical account,car (new),1480,Quite Rich,Unemployed,2,male,none,4, unknown / no property,66,bank,For Free,3,unemployed,1,None,Yes,1
+little,24,existing credits paid back duly,car (new),1371,NA,Professional,4,female,none,4,real estate,25,none,Rent,1,skilled employee,1,None,Yes,2
+NA,36,critical account,car (new),3535,little,Expert,4,male,none,4,car or other,37,none,Own,2,skilled employee,1,Yes,Yes,1
+little,18,existing credits paid back duly,radio/television,3509,little,Expert,4,female,guarantor,1,real estate,25,none,Own,1,skilled employee,1,None,Yes,1
+NA,36,critical account,car (used),5711,Rich,Master,4,male,none,2,car or other,38,none,Own,2,qualified employee,1,Yes,Yes,1
+Moderate,18,existing credits paid back duly,repairs,3872,little,Unemployed,2,female,none,4,car or other,67,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,39,critical account,radio/television,4933,little,Expert,2,male,guarantor,2,real estate,25,none,Own,2,skilled employee,1,None,Yes,2
+NA,24,critical account,car (new),1940,Rich,Master,4,male,none,4,real estate,60,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,12,no credits taken,retraining,1410,little,Professional,2,male,none,2,real estate,31,none,Own,1,unskilled,1,Yes,Yes,1
+Moderate,12,existing credits paid back duly,car (new),836,Moderate,amateur,4,female,none,2,building society savings agreement/ life insurance,23,bank,Own,1,unskilled,1,None,Yes,2
+Moderate,20,existing credits paid back duly,car (used),6468,NA,Unemployed,1,male,none,4,real estate,60,none,Own,1,qualified employee,1,Yes,Yes,1
+Moderate,18,existing credits paid back duly,business,1941,Rich,Professional,4,male,none,2,building society savings agreement/ life insurance,35,none,Own,1,unskilled,1,Yes,Yes,1
+NA,22,existing credits paid back duly,radio/television,2675,Quite Rich,Master,3,male,none,4,car or other,40,none,Own,1,skilled employee,1,None,Yes,1
+NA,48,critical account,car (used),2751,NA,Master,4,male,none,3,car or other,38,none,Own,2,skilled employee,2,Yes,Yes,1
+Moderate,48,delay in paying off in the past,education,6224,little,Master,4,male,none,4, unknown / no property,50,none,For Free,1,skilled employee,1,None,Yes,2
+little,40,critical account,education,5998,little,Professional,4,male,none,3, unknown / no property,27,bank,Own,1,skilled employee,1,Yes,Yes,2
+Moderate,21,existing credits paid back duly,business,1188,little,Master,2,female,none,4,building society savings agreement/ life insurance,39,none,Own,1,skilled employee,2,None,Yes,2
+NA,24,existing credits paid back duly,car (used),6313,NA,Master,3,male,none,4,car or other,41,none,Own,1,qualified employee,2,Yes,Yes,1
+NA,6,critical account,furniture/equipment,1221,NA,Professional,1,male,none,2,building society savings agreement/ life insurance,27,none,Own,2,skilled employee,1,None,Yes,1
+Rich,24,existing credits paid back duly,furniture/equipment,2892,little,Master,3,male,none,4, unknown / no property,51,none,For Free,1,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,furniture/equipment,3062,Quite Rich,Master,4,male,none,3, unknown / no property,32,none,Rent,1,skilled employee,1,Yes,Yes,1
+NA,9,existing credits paid back duly,furniture/equipment,2301,Moderate,amateur,2,female,none,4,building society savings agreement/ life insurance,22,none,Rent,1,skilled employee,1,None,Yes,1
+little,18,existing credits paid back duly,car (used),7511,NA,Master,1,male,none,4,building society savings agreement/ life insurance,51,none,For Free,1,skilled employee,2,Yes,Yes,2
+NA,12,critical account,furniture/equipment,1258,little,amateur,2,female,none,4,building society savings agreement/ life insurance,22,none,Rent,2,unskilled,1,None,Yes,1
+NA,24,delay in paying off in the past,car (new),717,NA,Master,4,male,none,4,car or other,54,none,Own,2,skilled employee,1,Yes,Yes,1
+Moderate,9,existing credits paid back duly,car (new),1549,NA,amateur,4,male,none,2,real estate,35,none,Own,1,unemployed,1,None,Yes,1
+NA,24,critical account,education,1597,little,Master,4,male,none,4, unknown / no property,54,none,For Free,2,skilled employee,2,None,Yes,1
+Moderate,18,critical account,radio/television,1795,little,Master,3,female,guarantor,4,real estate,48,bank,Rent,2,unskilled,1,Yes,Yes,1
+little,20,critical account,furniture/equipment,4272,little,Master,1,female,none,4,building society savings agreement/ life insurance,24,none,Own,2,skilled employee,1,None,Yes,1
+NA,12,critical account,radio/television,976,NA,Master,4,male,none,4,car or other,35,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,12,existing credits paid back duly,car (new),7472,NA,Unemployed,1,female,none,2,real estate,24,none,Rent,1,unemployed,1,None,Yes,1
+little,36,existing credits paid back duly,car (new),9271,little,Expert,2,male,none,1,car or other,24,none,Own,1,skilled employee,1,Yes,Yes,2
+Moderate,6,existing credits paid back duly,radio/television,590,little,amateur,3,male,none,3,real estate,26,none,Own,1,unskilled,1,None,No,1
+NA,12,critical account,radio/television,930,NA,Master,4,male,none,4,real estate,65,none,Own,4,skilled employee,1,None,Yes,1
+Moderate,42,all credits paid back duly,car (used),9283,little,Unemployed,1,male,none,2, unknown / no property,55,bank,For Free,1,qualified employee,1,Yes,Yes,1
+Moderate,15,no credits taken,car (new),1778,little,amateur,2,female,none,1,real estate,26,none,Rent,2,unemployed,1,None,Yes,2
+Moderate,8,existing credits paid back duly,business,907,little,amateur,3,male,none,2,real estate,26,none,Own,1,skilled employee,1,Yes,Yes,1
+Moderate,6,existing credits paid back duly,radio/television,484,little,Expert,3,male,guarantor,3,real estate,28,bank,Own,1,unskilled,1,None,Yes,1
+little,36,critical account,car (used),9629,little,Expert,4,male,none,4,car or other,24,none,Own,2,skilled employee,1,Yes,Yes,2
+little,48,existing credits paid back duly,domestic appliances,3051,little,Professional,3,male,none,4,car or other,54,none,Own,1,skilled employee,1,None,Yes,2
+little,48,existing credits paid back duly,car (new),3931,little,Expert,4,male,none,4, unknown / no property,46,none,For Free,1,skilled employee,2,None,Yes,2
+Moderate,36,delay in paying off in the past,car (new),7432,little,Professional,2,female,none,2,building society savings agreement/ life insurance,54,none,Rent,1,skilled employee,1,None,Yes,1
+NA,6,existing credits paid back duly,domestic appliances,1338,Quite Rich,Professional,1,male,none,4,real estate,62,none,Own,1,skilled employee,1,None,Yes,1
+NA,6,critical account,radio/television,1554,little,Expert,1,female,none,2,car or other,24,none,Rent,2,skilled employee,1,Yes,Yes,1
+little,36,existing credits paid back duly,Others,15857,little,Unemployed,2,male, co-applicant,3,car or other,43,none,Own,1,qualified employee,1,None,Yes,1
+little,18,existing credits paid back duly,radio/television,1345,little,Professional,4,male,none,3,real estate,26,bank,Own,1,skilled employee,1,None,Yes,2
+NA,12,existing credits paid back duly,car (new),1101,little,Professional,3,male,none,2,real estate,27,none,Own,2,skilled employee,1,Yes,Yes,1
+Rich,12,existing credits paid back duly,radio/television,3016,little,Professional,3,male,none,1,car or other,24,none,Own,1,skilled employee,1,None,Yes,1
+little,36,existing credits paid back duly,furniture/equipment,2712,little,Master,2,male,none,2,building society savings agreement/ life insurance,41,bank,Own,1,skilled employee,2,None,Yes,2
+little,8,critical account,car (new),731,little,Master,4,male,none,4,real estate,47,none,Own,2,unskilled,1,None,Yes,1
+NA,18,critical account,furniture/equipment,3780,little,amateur,3,male,none,2,car or other,35,none,Own,2,qualified employee,1,Yes,Yes,1
+little,21,critical account,car (new),1602,little,Master,4,male,none,3,car or other,30,none,Own,2,skilled employee,1,Yes,Yes,1
+little,18,critical account,car (new),3966,little,Master,1,female,none,4,real estate,33,bank,Rent,3,skilled employee,1,Yes,Yes,2
+NA,18,no credits taken,business,4165,little,Professional,2,male,none,2,car or other,36,stores,Own,2,skilled employee,2,None,Yes,2
+little,36,existing credits paid back duly,car (used),8335,NA,Master,3,male,none,4, unknown / no property,47,none,For Free,1,skilled employee,1,None,Yes,2
+Moderate,48,delay in paying off in the past,business,6681,NA,Professional,4,male,none,4, unknown / no property,38,none,For Free,1,skilled employee,2,Yes,Yes,1
+NA,24,delay in paying off in the past,business,2375,Quite Rich,Professional,4,male,none,2,car or other,44,none,Own,2,skilled employee,2,Yes,Yes,1
+little,18,existing credits paid back duly,car (new),1216,little,amateur,4,female,none,3,car or other,23,none,Rent,1,skilled employee,1,Yes,Yes,2
+little,45,no credits taken,business,11816,little,Master,2,male,none,4,car or other,29,none,Rent,2,skilled employee,1,None,Yes,2
+Moderate,24,existing credits paid back duly,radio/television,5084,NA,Master,2,female,none,4,car or other,42,none,Own,1,skilled employee,1,Yes,Yes,1
+Rich,15,existing credits paid back duly,radio/television,2327,little,amateur,2,female,none,3,real estate,25,none,Own,1,unskilled,1,None,Yes,2
+little,12,no credits taken,car (new),1082,little,Professional,4,male,none,4,car or other,48,bank,Own,2,skilled employee,1,None,Yes,2
+NA,12,existing credits paid back duly,radio/television,886,NA,Professional,4,female,none,2,car or other,21,none,Own,1,skilled employee,1,None,Yes,1
+NA,4,existing credits paid back duly,furniture/equipment,601,little,amateur,1,female,none,3,real estate,23,none,Rent,1,unskilled,2,None,Yes,1
+little,24,critical account,car (used),2957,little,Master,4,male,none,4,building society savings agreement/ life insurance,63,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,24,critical account,radio/television,2611,little,Master,4,male, co-applicant,3,real estate,46,none,Own,2,skilled employee,1,None,Yes,1
+little,36,existing credits paid back duly,furniture/equipment,5179,little,Expert,4,male,none,2,building society savings agreement/ life insurance,29,none,Own,1,skilled employee,1,None,Yes,2
+NA,21,delay in paying off in the past,car (used),2993,little,Professional,3,male,none,2,real estate,28,stores,Own,2,unskilled,1,None,Yes,1
+NA,18,existing credits paid back duly,repairs,1943,little,amateur,4,female,none,4,real estate,23,none,Own,1,skilled employee,1,None,Yes,2
+NA,24,all credits paid back duly,business,1559,little,Expert,4,male,none,4,car or other,50,bank,Own,1,skilled employee,1,Yes,Yes,1
+NA,18,existing credits paid back duly,furniture/equipment,3422,little,Master,4,male,none,4,building society savings agreement/ life insurance,47,bank,Own,3,skilled employee,2,Yes,Yes,1
+Moderate,21,existing credits paid back duly,furniture/equipment,3976,NA,Expert,2,male,none,3,car or other,35,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,18,existing credits paid back duly,car (new),6761,NA,Professional,2,male,none,4,car or other,68,none,Rent,2,skilled employee,1,None,Yes,2
+NA,24,existing credits paid back duly,car (new),1249,little,amateur,4,male,none,2,real estate,28,none,Own,1,skilled employee,1,None,Yes,1
+little,9,existing credits paid back duly,radio/television,1364,little,Expert,3,male,none,4,real estate,59,none,Own,1,skilled employee,1,None,Yes,1
+little,12,existing credits paid back duly,radio/television,709,little,Master,4,male,none,4,real estate,57,stores,Own,1,unskilled,1,None,Yes,2
+little,20,critical account,car (new),2235,little,Professional,4,male,guarantor,2,building society savings agreement/ life insurance,33,bank,Rent,2,skilled employee,1,None,No,2
+NA,24,critical account,car (used),4042,NA,Expert,3,male,none,4,building society savings agreement/ life insurance,43,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,15,critical account,radio/television,1471,little,Professional,4,male,none,4, unknown / no property,35,none,For Free,2,skilled employee,1,Yes,Yes,1
+little,18,all credits paid back duly,car (new),1442,little,Expert,4,male,none,4, unknown / no property,32,none,For Free,2,unskilled,2,None,Yes,2
+NA,36,delay in paying off in the past,car (new),10875,little,Master,2,male,none,2,car or other,45,none,Own,2,skilled employee,2,Yes,Yes,1
+NA,24,existing credits paid back duly,car (new),1474,Moderate,amateur,4,male,none,3,real estate,33,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,10,existing credits paid back duly,retraining,894,NA,Expert,4,female,none,3,building society savings agreement/ life insurance,40,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,15,critical account,furniture/equipment,3343,little,Professional,4,male,none,2, unknown / no property,28,none,For Free,1,skilled employee,1,Yes,Yes,1
+little,15,existing credits paid back duly,car (new),3959,little,Professional,3,female,none,2,building society savings agreement/ life insurance,29,none,Own,1,skilled employee,1,Yes,Yes,2
+NA,9,existing credits paid back duly,car (new),3577,Moderate,Professional,1,male,guarantor,2,real estate,26,none,Rent,1,skilled employee,2,None,No,1
+NA,24,critical account,car (used),5804,Rich,Professional,4,male,none,2,real estate,27,none,Own,2,skilled employee,1,None,Yes,1
+NA,18,delay in paying off in the past,business,2169,little,Professional,4,male,none,2,car or other,28,none,Own,1,skilled employee,1,Yes,Yes,2
+little,24,existing credits paid back duly,radio/television,2439,little,amateur,4,female,none,4,real estate,35,none,Own,1,skilled employee,1,Yes,Yes,2
+NA,27,critical account,furniture/equipment,4526,Rich,amateur,4,male,none,2,real estate,32,stores,Own,2,unskilled,2,Yes,Yes,1
+NA,10,existing credits paid back duly,furniture/equipment,2210,little,Professional,2,male,none,2,real estate,25,bank,Rent,1,unskilled,1,None,Yes,2
+NA,15,existing credits paid back duly,furniture/equipment,2221,Quite Rich,Professional,2,female,none,4,car or other,20,none,Rent,1,skilled employee,1,None,Yes,1
+little,18,existing credits paid back duly,radio/television,2389,little,amateur,4,female,none,1,car or other,27,stores,Own,1,skilled employee,1,None,Yes,1
+NA,12,critical account,furniture/equipment,3331,little,Master,2,male,none,4,building society savings agreement/ life insurance,42,stores,Own,1,skilled employee,1,None,Yes,1
+NA,36,existing credits paid back duly,business,7409,NA,Master,3,male,none,2,building society savings agreement/ life insurance,37,none,Own,2,skilled employee,1,None,Yes,1
+little,12,existing credits paid back duly,furniture/equipment,652,little,Master,4,female,none,4,building society savings agreement/ life insurance,24,none,Rent,1,skilled employee,1,None,Yes,1
+NA,36,delay in paying off in the past,furniture/equipment,7678,Quite Rich,Expert,2,female,none,4,car or other,40,none,Own,2,skilled employee,1,Yes,Yes,1
+Rich,6,critical account,car (new),1343,little,Master,1,male,none,4,real estate,46,none,Own,2,skilled employee,2,None,No,1
+little,24,critical account,business,1382,Moderate,Expert,4,male,none,1,real estate,26,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,15,existing credits paid back duly,domestic appliances,874,NA,amateur,4,female,none,1,real estate,24,none,Own,1,skilled employee,1,None,Yes,1
+little,12,existing credits paid back duly,furniture/equipment,3590,little,Professional,2,male, co-applicant,2,building society savings agreement/ life insurance,29,none,Own,1,unskilled,2,None,Yes,1
+Moderate,11,critical account,car (new),1322,Rich,Professional,4,female,none,4,car or other,40,none,Own,2,skilled employee,1,None,Yes,1
+little,18,all credits paid back duly,radio/television,1940,little,amateur,3,male, co-applicant,4, unknown / no property,36,bank,For Free,1,qualified employee,1,Yes,Yes,1
+NA,36,existing credits paid back duly,radio/television,3595,little,Master,4,male,none,2,car or other,28,none,Own,1,skilled employee,1,None,Yes,1
+little,9,existing credits paid back duly,car (new),1422,little,amateur,3,male,none,2, unknown / no property,27,none,For Free,1,qualified employee,1,Yes,Yes,2
+NA,30,critical account,radio/television,6742,NA,Expert,2,male,none,3,building society savings agreement/ life insurance,36,none,Own,2,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,car (used),7814,little,Expert,3,male,none,3,car or other,38,none,Own,1,qualified employee,1,Yes,Yes,1
+NA,24,existing credits paid back duly,car (used),9277,NA,Professional,2,male,none,4, unknown / no property,48,none,For Free,1,skilled employee,1,Yes,Yes,1
+Moderate,30,critical account,car (new),2181,NA,Master,4,male,none,4,real estate,36,none,Own,2,skilled employee,1,None,Yes,1
+NA,18,critical account,radio/television,1098,little,Unemployed,4,female,none,4,car or other,65,none,Own,2,unemployed,1,None,Yes,1
+Moderate,24,existing credits paid back duly,furniture/equipment,4057,little,Expert,3,male,none,3,car or other,43,none,Own,1,skilled employee,1,Yes,Yes,2
+little,12,existing credits paid back duly,education,795,little,amateur,4,female,none,4,building society savings agreement/ life insurance,53,none,Own,1,skilled employee,1,None,Yes,2
+Moderate,24,critical account,business,2825,NA,Expert,4,male,none,3, unknown / no property,34,none,Own,2,skilled employee,2,Yes,Yes,1
+Moderate,48,existing credits paid back duly,business,15672,little,Professional,2,male,none,2,car or other,23,none,Own,1,skilled employee,1,Yes,Yes,2
+NA,36,critical account,car (new),6614,little,Master,4,male,none,4,car or other,34,none,Own,2,qualified employee,1,Yes,Yes,1
+NA,28,all credits paid back duly,car (used),7824,NA,amateur,3,male,guarantor,4,real estate,40,bank,Rent,2,skilled employee,2,Yes,Yes,1
+little,27,critical account,business,2442,little,Master,4,male,none,4,car or other,43,stores,Own,4,qualified employee,2,Yes,Yes,1
+NA,15,critical account,radio/television,1829,little,Master,4,male,none,4,car or other,46,none,Own,2,skilled employee,1,Yes,Yes,1
+little,12,critical account,car (new),2171,little,Professional,4,male,none,4,building society savings agreement/ life insurance,38,bank,Own,2,unskilled,1,None,No,1
+Moderate,36,critical account,car (used),5800,little,Professional,3,male,none,4,car or other,34,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,18,critical account,radio/television,1169,NA,Professional,4,male,none,3,building society savings agreement/ life insurance,29,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,36,delay in paying off in the past,car (used),8947,NA,Expert,3,male,none,2,car or other,31,stores,Own,1,qualified employee,2,Yes,Yes,1
+little,21,existing credits paid back duly,radio/television,2606,little,amateur,4,female,none,4,building society savings agreement/ life insurance,28,none,Rent,1,qualified employee,1,Yes,Yes,1
+NA,12,critical account,furniture/equipment,1592,Rich,Expert,3,female,none,2,building society savings agreement/ life insurance,35,none,Own,1,skilled employee,1,None,No,1
+NA,15,existing credits paid back duly,furniture/equipment,2186,NA,Expert,1,female,none,4,real estate,33,bank,Rent,1,unskilled,1,None,Yes,1
+little,18,existing credits paid back duly,furniture/equipment,4153,little,Professional,2,male, co-applicant,3,car or other,42,none,Own,1,skilled employee,1,None,Yes,2
+little,16,critical account,car (new),2625,little,Master,2,male,guarantor,4,building society savings agreement/ life insurance,43,bank,Rent,1,skilled employee,1,Yes,Yes,2
+NA,20,critical account,car (new),3485,NA,amateur,2,male,none,4,real estate,44,none,Own,2,skilled employee,1,Yes,Yes,1
+NA,36,critical account,car (used),10477,NA,Master,2,male,none,4, unknown / no property,42,none,For Free,2,skilled employee,1,None,Yes,1
+NA,15,existing credits paid back duly,radio/television,1386,NA,Professional,4,male,none,2,real estate,40,none,Rent,1,skilled employee,1,Yes,Yes,1
+NA,24,existing credits paid back duly,radio/television,1278,little,Master,4,male,none,1,real estate,36,none,Own,1,qualified employee,1,Yes,Yes,1
+little,12,existing credits paid back duly,radio/television,1107,little,Professional,2,male,none,2,real estate,20,none,Rent,1,qualified employee,2,Yes,Yes,1
+little,21,existing credits paid back duly,car (new),3763,NA,Expert,2,male, co-applicant,2,real estate,24,none,Own,1,unskilled,1,None,No,1
+Moderate,36,existing credits paid back duly,education,3711,NA,Professional,2,male,none,2,car or other,27,none,Own,1,skilled employee,1,None,Yes,1
+NA,15,delay in paying off in the past,car (used),3594,little,amateur,1,female,none,2,building society savings agreement/ life insurance,46,none,Own,2,unskilled,1,None,Yes,1
+Moderate,9,existing credits paid back duly,car (new),3195,NA,Professional,1,female,none,2,real estate,33,none,Own,1,unskilled,1,None,Yes,1
+NA,36,delay in paying off in the past,radio/television,4454,little,Professional,4,female,none,4,real estate,34,none,Own,2,skilled employee,1,None,Yes,1
+Moderate,24,critical account,furniture/equipment,4736,little,amateur,2,female,none,4,car or other,25,bank,Own,1,unskilled,1,None,Yes,2
+Moderate,30,existing credits paid back duly,radio/television,2991,NA,Master,2,female,none,4,car or other,25,none,Own,1,skilled employee,1,None,Yes,1
+NA,11,existing credits paid back duly,business,2142,Rich,Master,1,male,none,2,real estate,28,none,Own,1,skilled employee,1,Yes,Yes,1
+little,24,all credits paid back duly,business,3161,little,Professional,4,male,none,2,building society savings agreement/ life insurance,31,none,Rent,1,skilled employee,1,Yes,Yes,2
+Moderate,48,no credits taken,Others,18424,little,Professional,1,female,none,2,building society savings agreement/ life insurance,32,bank,Own,1,qualified employee,1,Yes,No,2
+NA,10,existing credits paid back duly,car (used),2848,Moderate,Professional,1,male, co-applicant,2,real estate,32,none,Own,1,skilled employee,2,None,Yes,1
+little,6,existing credits paid back duly,car (new),14896,little,Master,1,male,none,4, unknown / no property,68,bank,Own,1,qualified employee,1,Yes,Yes,2
+little,24,existing credits paid back duly,furniture/equipment,2359,Moderate,Unemployed,1,male,none,1,building society savings agreement/ life insurance,33,none,Own,1,skilled employee,1,None,Yes,2
+little,24,existing credits paid back duly,furniture/equipment,3345,little,Master,4,male,none,2,building society savings agreement/ life insurance,39,none,Rent,1,qualified employee,1,Yes,Yes,2
+NA,18,critical account,furniture/equipment,1817,little,Professional,4,female,none,2, unknown / no property,28,none,Own,2,skilled employee,1,None,Yes,1
+NA,48,delay in paying off in the past,radio/television,12749,Quite Rich,Expert,4,male,none,1,car or other,37,none,Own,1,qualified employee,1,Yes,Yes,1
+little,9,existing credits paid back duly,radio/television,1366,little,amateur,3,female,none,4,building society savings agreement/ life insurance,22,none,Rent,1,skilled employee,1,None,Yes,2
+Moderate,12,existing credits paid back duly,car (new),2002,little,Expert,3,male,none,4,building society savings agreement/ life insurance,30,none,Rent,1,skilled employee,2,Yes,Yes,1
+little,24,all credits paid back duly,furniture/equipment,6872,little,amateur,2,male,none,1,building society savings agreement/ life insurance,55,bank,Own,1,skilled employee,1,Yes,Yes,2
+little,12,all credits paid back duly,car (new),697,little,amateur,4,male,none,2,car or other,46,bank,Own,2,skilled employee,1,Yes,Yes,2
+little,18,critical account,furniture/equipment,1049,little,amateur,4,female,none,4,building society savings agreement/ life insurance,21,none,Rent,1,skilled employee,1,None,Yes,1
+little,48,existing credits paid back duly,car (used),10297,little,Expert,4,male,none,4, unknown / no property,39,stores,For Free,3,skilled employee,2,Yes,Yes,2
+NA,30,existing credits paid back duly,radio/television,1867,NA,Master,4,male,none,4,car or other,58,none,Own,1,skilled employee,1,Yes,Yes,1
+little,12,delay in paying off in the past,car (new),1344,little,Professional,4,male,none,2,real estate,43,none,Own,2,unskilled,2,None,Yes,1
+little,24,existing credits paid back duly,furniture/equipment,1747,little,amateur,4,male, co-applicant,1,building society savings agreement/ life insurance,24,none,Own,1,unskilled,1,None,No,1
+Moderate,9,existing credits paid back duly,radio/television,1670,little,amateur,4,female,none,2,car or other,22,none,Own,1,skilled employee,1,Yes,Yes,2
+NA,9,critical account,car (new),1224,little,Professional,3,male,none,1,real estate,30,none,Own,2,skilled employee,1,None,Yes,1
+NA,12,critical account,radio/television,522,Quite Rich,Master,4,male,none,4,building society savings agreement/ life insurance,42,none,Own,2,skilled employee,2,Yes,Yes,1
+little,12,existing credits paid back duly,radio/television,1498,little,Professional,4,female,none,1,car or other,23,bank,Own,1,skilled employee,1,None,Yes,1
+Moderate,30,delay in paying off in the past,radio/television,1919,Moderate,amateur,4,male,none,3, unknown / no property,30,stores,Own,2,qualified employee,1,None,Yes,2
+Rich,9,existing credits paid back duly,radio/television,745,little,Professional,3,female,none,2,real estate,28,none,Own,1,unskilled,1,None,Yes,2
+Moderate,6,existing credits paid back duly,radio/television,2063,little,amateur,4,male,none,3,car or other,30,none,Rent,1,qualified employee,1,Yes,Yes,1
+Moderate,60,existing credits paid back duly,education,6288,little,Professional,4,male,none,4, unknown / no property,42,none,For Free,1,skilled employee,1,None,Yes,2
+NA,24,critical account,car (used),6842,NA,Professional,2,male,none,4,building society savings agreement/ life insurance,46,none,Own,2,qualified employee,2,Yes,Yes,1
+NA,12,existing credits paid back duly,car (new),3527,NA,amateur,2,male,none,3,building society savings agreement/ life insurance,45,none,Own,1,qualified employee,2,Yes,Yes,1
+NA,10,existing credits paid back duly,car (new),1546,little,Professional,3,male,none,2,real estate,31,none,Own,1,unskilled,2,None,No,1
+NA,24,existing credits paid back duly,furniture/equipment,929,NA,Expert,4,male,none,2,car or other,31,stores,Own,1,skilled employee,1,Yes,Yes,1
+NA,4,critical account,car (new),1455,little,Expert,2,male,none,1,real estate,42,none,Own,3,unskilled,2,None,Yes,1
+little,15,existing credits paid back duly,furniture/equipment,1845,little,amateur,4,female,guarantor,1,building society savings agreement/ life insurance,46,none,Rent,1,skilled employee,1,None,Yes,1
+Moderate,48,no credits taken,car (new),8358,Quite Rich,amateur,1,female,none,1,car or other,30,none,Own,2,skilled employee,1,None,Yes,1
+little,24,all credits paid back duly,furniture/equipment,3349,Quite Rich,amateur,4,male,none,4, unknown / no property,30,none,For Free,1,skilled employee,2,Yes,Yes,2
+NA,12,existing credits paid back duly,car (new),2859,NA,Unemployed,4,male,none,4, unknown / no property,38,none,Own,1,qualified employee,1,Yes,Yes,1
+NA,18,existing credits paid back duly,furniture/equipment,1533,little,amateur,4,male, co-applicant,1,building society savings agreement/ life insurance,43,none,Own,1,unskilled,2,None,Yes,2
+NA,24,existing credits paid back duly,radio/television,3621,Moderate,Master,2,male,none,4,car or other,31,none,Own,2,skilled employee,1,None,Yes,2
+Moderate,18,critical account,business,3590,little,Unemployed,3,male,none,3,car or other,40,none,Own,3,unemployed,2,Yes,Yes,1
+little,36,delay in paying off in the past,business,2145,little,Expert,2,male,none,1,car or other,24,none,Own,2,skilled employee,1,Yes,Yes,2
+Moderate,24,existing credits paid back duly,car (used),4113,Quite Rich,amateur,3,female,none,4,car or other,28,none,Rent,1,skilled employee,1,None,Yes,2
+NA,36,existing credits paid back duly,furniture/equipment,10974,little,Unemployed,4,female,none,2,car or other,26,none,Own,2,qualified employee,1,Yes,Yes,2
+little,12,existing credits paid back duly,car (new),1893,little,Professional,4,female,guarantor,4,building society savings agreement/ life insurance,29,none,Own,1,skilled employee,1,Yes,Yes,1
+little,24,critical account,radio/television,1231,Rich,Master,4,female,none,4,building society savings agreement/ life insurance,57,none,Rent,2,qualified employee,1,Yes,Yes,1
+Rich,30,critical account,radio/television,3656,NA,Master,4,male,none,4,building society savings agreement/ life insurance,49,stores,Own,2,unskilled,1,None,Yes,1
+Moderate,9,critical account,radio/television,1154,little,Master,2,male,none,4,real estate,37,none,Own,3,unskilled,1,None,Yes,1
+little,28,existing credits paid back duly,car (new),4006,little,Professional,3,male,none,2,car or other,45,none,Own,1,unskilled,1,None,Yes,2
+Moderate,24,existing credits paid back duly,furniture/equipment,3069,Moderate,Master,4,male,none,4, unknown / no property,30,none,For Free,1,skilled employee,1,None,Yes,1
+NA,6,critical account,radio/television,1740,little,Master,2,male,none,2,real estate,30,none,Rent,2,skilled employee,1,None,Yes,1
+Moderate,21,delay in paying off in the past,car (new),2353,little,Professional,1,male,none,4,building society savings agreement/ life insurance,47,none,Own,2,skilled employee,1,None,Yes,1
+NA,15,existing credits paid back duly,car (new),3556,NA,Professional,3,male,none,2, unknown / no property,29,none,Own,1,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,radio/television,2397,Quite Rich,Master,3,male,none,2,car or other,35,bank,Own,2,skilled employee,1,Yes,Yes,2
+Moderate,6,existing credits paid back duly,repairs,454,little,amateur,3,male,none,1,building society savings agreement/ life insurance,22,none,Own,1,unskilled,1,None,Yes,1
+Moderate,30,existing credits paid back duly,radio/television,1715,NA,Professional,4,female,none,1,car or other,26,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,27,critical account,radio/television,2520,Quite Rich,Professional,4,male,none,2,building society savings agreement/ life insurance,23,none,Own,2,unskilled,1,None,Yes,2
+NA,15,existing credits paid back duly,radio/television,3568,little,Master,4,female,none,2,car or other,54,bank,Rent,1,qualified employee,1,Yes,Yes,1
+NA,42,existing credits paid back duly,radio/television,7166,NA,Expert,2,male,none,4,building society savings agreement/ life insurance,29,none,Rent,1,skilled employee,1,Yes,Yes,1
+little,11,critical account,car (new),3939,little,Professional,1,male,none,2,real estate,40,none,Own,2,unskilled,2,None,Yes,1
+Moderate,15,existing credits paid back duly,repairs,1514,Moderate,Professional,4,male,guarantor,2,real estate,22,none,Own,1,skilled employee,1,None,Yes,1
+NA,24,existing credits paid back duly,car (new),7393,little,Professional,1,male,none,4,building society savings agreement/ life insurance,43,none,Own,1,unskilled,2,None,Yes,1
+little,24,all credits paid back duly,car (new),1193,little,Unemployed,1,female, co-applicant,4, unknown / no property,29,none,Rent,2,unemployed,1,None,Yes,2
+little,60,existing credits paid back duly,business,7297,little,Master,4,male, co-applicant,4, unknown / no property,36,none,Rent,1,skilled employee,1,None,Yes,2
+NA,30,critical account,radio/television,2831,little,Professional,4,female,none,2,car or other,33,none,Own,1,skilled employee,1,Yes,Yes,1
+Rich,24,existing credits paid back duly,radio/television,1258,Quite Rich,Professional,3,female,none,3,car or other,57,none,Own,1,unskilled,1,None,Yes,1
+Moderate,6,existing credits paid back duly,radio/television,753,little,Professional,2,female,guarantor,3,real estate,64,none,Own,1,skilled employee,1,None,Yes,1
+Moderate,18,delay in paying off in the past,business,2427,NA,Master,4,male,none,2,building society savings agreement/ life insurance,42,none,Own,2,skilled employee,1,None,Yes,1
+NA,24,delay in paying off in the past,car (new),2538,little,Master,4,male,none,4,car or other,47,none,Own,2,unskilled,2,None,Yes,2
+Moderate,15,all credits paid back duly,car (new),1264,Moderate,Professional,2,male,none,2,building society savings agreement/ life insurance,25,none,Rent,1,skilled employee,1,None,Yes,2
+Moderate,30,critical account,furniture/equipment,8386,little,Expert,2,male,none,2,building society savings agreement/ life insurance,49,none,Own,1,skilled employee,1,None,Yes,2
+NA,48,existing credits paid back duly,business,4844,little,Unemployed,3,male,none,2,car or other,33,bank,Rent,1,qualified employee,1,Yes,Yes,2
+Rich,21,existing credits paid back duly,car (new),2923,Moderate,Professional,1,female,none,1,car or other,28,bank,Own,1,qualified employee,1,Yes,Yes,1
+little,36,existing credits paid back duly,car (used),8229,little,Professional,2,male,none,2,building society savings agreement/ life insurance,26,none,Own,1,skilled employee,2,None,Yes,2
+NA,24,critical account,furniture/equipment,2028,little,Expert,2,male,none,2,building society savings agreement/ life insurance,30,none,Own,2,unskilled,1,None,Yes,1
+little,15,critical account,furniture/equipment,1433,little,Professional,4,female,none,3,building society savings agreement/ life insurance,25,none,Rent,2,skilled employee,1,None,Yes,1
+Rich,42,no credits taken,business,6289,little,amateur,2,male,none,1,building society savings agreement/ life insurance,33,none,Own,2,skilled employee,1,None,Yes,1
+NA,13,existing credits paid back duly,radio/television,1409,Moderate,Unemployed,2,female,none,4,real estate,64,none,Own,1,skilled employee,1,None,Yes,1
+little,24,existing credits paid back duly,car (used),6579,little,Unemployed,4,male,none,2, unknown / no property,29,none,For Free,1,qualified employee,1,Yes,Yes,1
+Moderate,24,critical account,radio/television,1743,little,Master,4,male,none,2,building society savings agreement/ life insurance,48,none,Own,2,unskilled,1,None,Yes,1
+NA,12,critical account,education,3565,NA,amateur,2,male,none,1,building society savings agreement/ life insurance,37,none,Own,2,unskilled,2,None,Yes,1
+NA,15,all credits paid back duly,radio/television,1569,Moderate,Master,4,male,none,4,car or other,34,bank,Own,1,unskilled,2,None,Yes,1
+little,18,existing credits paid back duly,radio/television,1936,NA,Expert,2,male,none,4,car or other,23,none,Rent,2,unskilled,1,None,Yes,1
+little,36,existing credits paid back duly,furniture/equipment,3959,little,Unemployed,4,male,none,3,building society savings agreement/ life insurance,30,none,Own,1,qualified employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,car (new),2390,NA,Master,4,male,none,3,car or other,50,none,Own,1,skilled employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,furniture/equipment,1736,little,Expert,3,female,none,4,real estate,31,none,Own,1,unskilled,1,None,Yes,1
+little,30,existing credits paid back duly,car (used),3857,little,Professional,4,male,none,4,building society savings agreement/ life insurance,40,none,Own,1,qualified employee,1,Yes,Yes,1
+NA,12,existing credits paid back duly,radio/television,804,little,Master,4,male,none,4,car or other,38,none,Own,1,skilled employee,1,None,Yes,1
+little,45,existing credits paid back duly,radio/television,1845,little,Professional,4,male,none,4, unknown / no property,23,none,For Free,1,skilled employee,1,Yes,Yes,2
+Moderate,45,critical account,car (used),4576,Moderate,Unemployed,3,male,none,4,car or other,27,none,Own,1,skilled employee,1,None,Yes,1
